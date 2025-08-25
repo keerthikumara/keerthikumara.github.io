@@ -21,16 +21,22 @@ I’ve contributed to high-impact projects at **IBM Quantum** and Purdue, and I�
 
 ## 🧪 Research Highlights
 
+-**Transmon Qutrit-Based Simulation of Spin-1 AKLT Systems**  
+  Demonstrated qutrit advantages using calibrated superconducting transmons.  
+  [arXiv:2412.19786]
+
 - **Quantum Simulation of Superdiffusion Breakdown**  
   Simulated 2D Heisenberg chains using quantum circuits with advanced error mitigation.  
-  arXiv:2503.14371
+  [arXiv:2503.14371]
 
-- **Transmon Qutrit-Based Simulation of Spin-1 AKLT Systems**  
-  Demonstrated qutrit advantages using calibrated superconducting transmons.  
-  [arXiv:2412.19786]- **Random Projection Using Quantum Circuits**  
+- **Random Projection Using Quantum Circuits**  
   Benchmarked quantum dimensionality reduction vs classical PCA.  
-  [Phys. Rev. Research 6, 013010 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch<1% ground-state energy accuracy on IBMQ hardware.  
-  [J. Phys. Chem. A, 2023](https://pubs.acs.org/doiguages:** Python, C/C++, R, MATLAB, Mathematica  
+  [Phys. Rev. Research 6, 013010 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch)
+
+- **Physics‑Inspired Quantum Simulation of Resonating Valence Bond States**
+  [J. Phys. Chem. A, 2023](https://pubs.acs.org/doi)
+  
+**Languages:** Python, C/C++, R, MATLAB, Mathematica  
 **Quantum Frameworks:** Qiskit, PennyLane, Cirq  
 **ML Libraries:** PyTorch, TensorFlow, Scikit-learn  
 **Tools:** GitHub, LATEX, Origin, SciDavis
