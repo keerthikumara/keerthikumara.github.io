@@ -1,13 +1,14 @@
 ---
 # Display name
-title : Graduate Research Assiatant
+name : Keerthi Kumaran
+title: Graduate Research Assistant
 
 # Name pronunciation (optional)
 name_pronunciation :
 
 # Full name (for SEO)
-first_name : Keerthi
-last_name : Kumaran
+first_name: Keerthi
+last_name: Kumaran
 
 # Pronouns (optional)
 pronouns : he/him
@@ -141,4 +142,5 @@ skills :
 ---
 ## About Me
 
-Keerthi Kumaran is a graduate researcher in quantum computing.
+<span style="color: red;">Keerthi Kumaran is a graduate researcher in quantum computing.</span>
+
