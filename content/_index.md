@@ -38,10 +38,10 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text:
+      text: |-
          PhD researcher in quantum computing at Purdue University, specializing in quantum simulations, error mitigation, and circuit optimization.
 
-     Please reach out to collaborate 😃
+         Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
