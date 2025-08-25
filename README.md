@@ -21,7 +21,7 @@ I’ve contributed to high-impact projects at **IBM Quantum** and Purdue, and I�
 
 ## 🧪 Research Highlights
 
--**Transmon Qutrit-Based Simulation of Spin-1 AKLT Systems**  
+- **Transmon Qutrit-Based Simulation of Spin-1 AKLT Systems**  
   Demonstrated qutrit advantages using calibrated superconducting transmons.  
   [arXiv:2412.19786]
 
@@ -54,5 +54,6 @@ I’ve contributed to high-impact projects at **IBM Quantum** and Purdue, and I�
 
 ## 📚 Publications
 
-Check out my full list of publications on [Google Scholar](https://scholar.google.com/citations?open to collaborations, research discussions, and new opportunities in quantum computing. Feel free to reach out!
+Check out my full list of publications on [Google Scholar](https://scholar.google.com/citations?)
+Open to collaborations, research discussions, and new opportunities in quantum computing. Feel free to reach out!
 
