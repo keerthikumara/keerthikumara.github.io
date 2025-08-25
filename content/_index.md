@@ -39,8 +39,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission.
-
+        
 
          PhD researcher in quantum computing at Purdue University, specializing in quantum simulations, error mitigation, and circuit optimization.
 
