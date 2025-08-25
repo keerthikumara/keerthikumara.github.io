@@ -3,7 +3,7 @@
 title : Graduate Research Assiatant
 
 # Name pronunciation (optional)
-name_pronunciation : Keer ti
+name_pronunciation :
 
 # Full name (for SEO)
 first_name : Keerthi
@@ -20,7 +20,7 @@ icon : :|
 superuser : true
 
 # Role/position
-role: Chief Scientist
+role: Graduate Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations :
@@ -41,7 +41,7 @@ profiles :
 
 # Interests
 interests :
-  - Qunatum Computing
+  - Quantum Computing
   - Quantum Simulations
   - Quantum Technology
 
