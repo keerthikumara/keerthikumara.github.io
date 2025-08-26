@@ -11,6 +11,7 @@ authors:
   - arnab-banerjee
   - phillip-lotshaw
 date: 2025-07-01
+type:journal-article
 publication_types: ["article-journal"]
 publication: "*arXiv:2507.08939*"
 featured: false
