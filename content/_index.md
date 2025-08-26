@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Keerthi Kumaran AM"
 date: 2022-10-24
 type: landing
 
@@ -40,29 +40,20 @@ sections:
     design:
       columns: '1'
 
-  #- block: collection
-  #  id: papers
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    view: article-grid
-  #    columns: 2
-
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Journal Articles
       text: ""
       filters:
         folders:
           - publication
-        exclude_featured: false
+        types:
+          - journal-article
+        exclude_featured: true
     design:
       view: citation
+      columns: 1
 
   - block: cta-card
     demo: true
