@@ -50,7 +50,7 @@ sections:
           - publication/journal-article
         types:
           - journal-article
-        exclude_featured: true
+        exclude_featured: false
     design:
       view: citation
       columns: 1
