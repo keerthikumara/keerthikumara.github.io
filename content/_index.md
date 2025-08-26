@@ -4,7 +4,7 @@ date: 2022-10-24
 type: landing
 
 design:
-  spacing: "6rem"
+  spacing: "8rem"
 
 sections:
   - block: resume-biography-3
@@ -49,7 +49,7 @@ sections:
         folders:
           - publication/journal-article
         types:
-          - journal-article
+          - publication
         exclude_featured: false
     design:
       view: citation
