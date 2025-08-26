@@ -11,11 +11,13 @@ authors:
   - arnab-banerjee
   - phillip-lotshaw
 date: 2025-07-01
-type:journal-article
+type: journal-article
 publication_types: ["article-journal"]
-publication: "*arXiv:2507.08939*"
+publication: "arXiv:2507.08939"
 featured: false
+url_pdf: "https://arxiv.org/pdf/2507.08939.pdf"
 links:
-  - type: pdf
+  - icon: file-pdf
+    name: PDF
     url: "https://arxiv.org/abs/2507.08939"
 ---
