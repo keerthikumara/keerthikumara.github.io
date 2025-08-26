@@ -147,7 +147,6 @@ skills :
   background-color: rgba(255, 255, 255, 0.6);
   padding: 6px 12px;
   border-radius: 8px;
-  
 ">
   Keerthi Kumaran is a graduate researcher in quantum computing.
 </span>
