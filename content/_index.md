@@ -34,24 +34,24 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-         PhD researcher in quantum computing at Purdue University, specializing in quantum simulations, error mitigation, and circuit optimization.
+        PhD researcher in quantum computing at Purdue University, specializing in quantum simulations, error mitigation, and circuit optimization.
 
-         Please reach out to collaborate 😃
+        Please reach out to collaborate 😃
     design:
       columns: '1'
 
   - block: collection
-     id: papers
-     content:
-       title: Featured Publications
-       filters:
-         folders:
-           - publication
-         featured_only: true
-     design:
-       view: article-grid
-       columns: 2
-  
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -63,41 +63,6 @@ sections:
     design:
       view: citation
 
-
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
-
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: Recent News
-  #     subtitle: ''
-  #     text: ''
-  #     page_type: post
-  #     count: 5
-  #     filters:
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     offset: 0
-  #     order: desc
-  #   design:
-  #     view: date-title-summary
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-
   - block: cta-card
     demo: true
     content:
@@ -108,7 +73,7 @@ sections:
         &lt;a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub"&gt;Star&lt;/a&gt;
 
         Easily build anything with blocks - no-code required!
-        
+
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
