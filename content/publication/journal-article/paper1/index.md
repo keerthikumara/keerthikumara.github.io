@@ -1,7 +1,15 @@
 ---
 title: "Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Processor"
 authors:
-  - keerthi-kumaran
+  - Ammar Ali
+  - Joe Gibbs
+  - Keerthi Kumaran
+  - Varadharajan Muruganandham
+  - Bo Xiao
+  - Paul Kairys
+  - Gabor Halasz
+  - Arnab Banerjee
+  - Phillip C. Lotshaw
 date: 2025-07-01
 type: publication
 publication_types: ["article-journal"]
