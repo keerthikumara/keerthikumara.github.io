@@ -45,13 +45,6 @@ sections:
     content:
       title: Journal Articles
       text: ""
-      filters:
-        folders:
-          - publication/journal-article
-        types:
-          - publication
-        exclude_featured: false
-    design:
       view: citation
       columns: 1
 
