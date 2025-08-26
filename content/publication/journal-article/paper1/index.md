@@ -3,7 +3,7 @@ title: "Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Proce
 authors:
   - keerthi-kumaran
 date: 2025-07-01
-type: journal-article
+type: publication
 publication_types: ["article-journal"]
 publication: "arXiv:2507.08939"
 url_pdf: "https://arxiv.org/pdf/2507.08939.pdf"
