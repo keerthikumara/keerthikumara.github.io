@@ -47,7 +47,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publication/journal-article
         types:
           - journal-article
         exclude_featured: true
