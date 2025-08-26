@@ -143,8 +143,8 @@ skills :
 ## About Me
 
 <span style="
-  color: #FFA500;
-  background-color: rgba(255, 255, 255, 0.6);
+  color:  #000000;;
+  background-color: rgba(255, 255, 255, 0.9);
   padding: 6px 12px;
   border-radius: 8px;
 ">
