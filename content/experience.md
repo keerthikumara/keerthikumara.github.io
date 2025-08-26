@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2025-7-24
+date: 2025-07-24
 type: landing
 
 design:
