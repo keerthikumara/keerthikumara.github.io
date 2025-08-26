@@ -44,7 +44,7 @@ sections:
     id: papers
     content:
       title: Journal Articles
-      text: "Explore my published work in quantum computing."
+      text: ""
       filters:
         types:
           - publication
