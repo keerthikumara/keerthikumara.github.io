@@ -142,5 +142,14 @@ skills :
 ---
 ## About Me
 
-<span style="color: #FFA500;">Keerthi Kumaran is a graduate researcher in quantum computing.</span>
+<span style="
+  color: #FFA500;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 6px 12px;
+  border-radius: 8px;
+  text-shadow: 2px 2px 6px #000000;
+">
+  Keerthi Kumaran is a graduate researcher in quantum computing.
+</span>
+
 
