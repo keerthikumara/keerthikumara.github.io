@@ -11,5 +11,6 @@ links:
   - icon: file-pdf
     name: PDF
     url: "https://arxiv.org/abs/2507.08939"
+featured: true
 ---
 This paper explores robust chiral edge dynamics in a Kitaev honeycomb model implemented on a trapped ion processor.
