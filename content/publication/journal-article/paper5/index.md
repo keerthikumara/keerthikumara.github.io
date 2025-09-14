@@ -1,4 +1,3 @@
-
 <img src="/uploads/physics_inspired_overview.png" alt="Valence bond quantum simulation overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 
 **Summary:**
@@ -18,6 +17,7 @@ publishDate: 2023-10-01
 publication_types: ["article-journal"]
 publication: "*Journal of Physical Chemistry A 127.41 (Oct. 2023) pp. 8751–8764*"
 featured: false
+links:
   - type: pdf
     url: "https://pubs.acs.org/doi/10.1021/acs.jpca.3c05172"
 ---
