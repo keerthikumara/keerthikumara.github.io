@@ -2,7 +2,7 @@
 title: 'Experience'
 date: 2026-01-01
 sections:
-  - block: resume-experience
+  - block: experience
     content:
       username: admin
     design:
