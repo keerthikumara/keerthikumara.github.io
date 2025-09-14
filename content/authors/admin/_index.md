@@ -107,7 +107,10 @@ experience :
 
       - Publishing in peer-reviewed journals and collaborating across disciplines.
 
+
+# Remove the skills and hobbies sections from the author profile
 ---
+
 ## About Me
 
 <span style="
