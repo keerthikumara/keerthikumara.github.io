@@ -1,4 +1,3 @@
-
 <img src="/uploads/random_projection_overview.png" alt="Random projection quantum circuit overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 
 <div style="font-size: 0.95em; color: #444; margin-bottom: 1.5em;">
@@ -15,7 +14,8 @@ authors:
   - sangchul-oh
   - sabre-kais
 date: 2024-01-01
-publication_types: ["article-journal"]
+publishDate: 2024-01-01
+publication_types: ["none"]
 publication: "*Phys. Rev. Res. 6 (Jan. 2024) p. 013010*"
 featured: false
 links:
