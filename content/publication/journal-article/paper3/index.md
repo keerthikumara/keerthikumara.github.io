@@ -1,8 +1,3 @@
-<img src="/uploads/aklt_overview.png" alt="AKLT qutrit simulation overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
-
-**Summary:**
-This work demonstrates the simulation of spin-1 AKLT systems using superconducting transmon qutrits. The experiment leverages higher energy levels to realize qutrit operations, enabling the study of quantum phases and entanglement in spin-1 chains. The results highlight the advantages of qutrit-based quantum hardware for simulating complex quantum systems.
-
 ---
 title: "Transmon qutrit‑based simulation of spin‑1 AKLT systems"
 authors:
@@ -23,4 +18,8 @@ links:
   - type: pdf
     url: "https://arxiv.org/abs/2412.19786"
 ---
+<img src="/uploads/aklt_overview.png" alt="AKLT qutrit simulation overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
+
+**Summary:**
+This work demonstrates the simulation of spin-1 AKLT systems using superconducting transmon qutrits. The experiment leverages higher energy levels to realize qutrit operations, enabling the study of quantum phases and entanglement in spin-1 chains. The results highlight the advantages of qutrit-based quantum hardware for simulating complex quantum systems.
 
