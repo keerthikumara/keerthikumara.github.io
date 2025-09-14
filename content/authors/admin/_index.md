@@ -42,7 +42,7 @@ profiles:
 interests:
   - Quantum Computing
   - Quantum Simulations
-  - Quantum Technology
+  - Quantum Error-Suppression
 
 # Education
 education:
