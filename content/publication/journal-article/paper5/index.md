@@ -14,7 +14,7 @@ authors:
   - sabre-kais
 date: 2023-10-01
 publishDate: 2023-10-01
-publication_types: ["article-journal"]
+publication_types: ["none"]
 publication: "*Journal of Physical Chemistry A 127.41 (Oct. 2023) pp. 8751–8764*"
 featured: false
 links:
