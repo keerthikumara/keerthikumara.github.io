@@ -11,6 +11,7 @@ authors:
   - Arnab Banerjee
   - Phillip C. Lotshaw
 date: 2025-07-01
+publishDate: 2025-07-01
 type: publication
 publication_types: ["article-journal"]
 publication: "arXiv:2507.08939"
