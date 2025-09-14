@@ -12,12 +12,4 @@ sections:
       username: admin
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      text:
-      username: admin
-    design:
-      columns: '2'
 ---
