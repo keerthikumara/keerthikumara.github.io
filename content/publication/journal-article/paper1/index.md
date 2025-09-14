@@ -16,8 +16,7 @@ publication_types: ["article-journal"]
 publication: "arXiv:2507.08939"
 featured: true
 links:
-  - icon: file-pdf
-    name: PDF
+  - type: PDF
     url: "https://arxiv.org/abs/2507.08939"
 ---
 <img src="/uploads/kitaev-overview.png" alt="Model and quantum circuit overview for Kitaev honeycomb paper" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
