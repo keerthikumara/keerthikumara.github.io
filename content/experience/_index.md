@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2024-10-24
+date: 2025-09-14
 sections:
   - block: resume-experience
     content:
