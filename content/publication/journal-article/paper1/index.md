@@ -14,11 +14,19 @@ date: 2025-07-01
 type: publication
 publication_types: ["article-journal"]
 publication: "arXiv:2507.08939"
-url_pdf: "https://arxiv.org/pdf/2507.08939.pdf"
 links:
   - icon: file-pdf
     name: PDF
     url: "https://arxiv.org/abs/2507.08939"
 featured: true
 ---
-This paper explores robust chiral edge dynamics in a Kitaev honeycomb model implemented on a trapped ion processor.
+
+
+<img src="/uploads/kitaev-overview.png" alt="Model and quantum circuit overview for Kitaev honeycomb paper" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
+
+<div style="font-size: 0.95em; color: #444; margin-bottom: 1.5em;">
+<b>Figure:</b> (a) Kitaev honeycomb lattice with effective field and edge excitation. (b) Quantum circuit schematic for measuring time-dependent correlations. (c) Phase diagram of the Kitaev honeycomb in a magnetic field. Stars indicate probed points in Abelian and non-Abelian phases.
+</div>
+
+**Summary:**
+This work demonstrates robust chiral edge dynamics in a Kitaev honeycomb model realized on a trapped ion quantum processor. The study highlights the observation of chiral edge transport, resilience to disorder, and the use of programmable interactions to simulate topological phases. The results provide new insights into quantum simulation of topological matter and pave the way for future explorations of quantum edge phenomena in engineered systems.
