@@ -76,8 +76,7 @@ education :
 
       Strong academic performance with a focus on science and mathematics.
 
-# Work Experience
-work :
+experience :
   - position : Quantum Computing Research Intern
     company_name : IBM Quantum, Yorktown Heights, NY
     company_url : 'https://www.research.ibm.com/quantum'
