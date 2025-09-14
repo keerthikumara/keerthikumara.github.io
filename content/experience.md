@@ -1,7 +1,7 @@
 ---
 title: 'Experience'
 date: 2025-10-24
-type: landing
+type: page
 
 design:
   spacing: '5rem'
