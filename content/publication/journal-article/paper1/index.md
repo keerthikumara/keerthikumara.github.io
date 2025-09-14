@@ -12,6 +12,28 @@ authors:
   - Phillip C. Lotshaw
 date: 2025-07-01
 publishDate: 2025-07-01
+publication_types: ["article-journal"]
+publication: "arXiv:2507.08939"
+featured: true
+links:
+  - icon: file-pdf
+    name: PDF
+    url: "https://arxiv.org/abs/2507.08939"
+---
+---
+title: "Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Processor"
+authors:
+  - Ammar Ali
+  - Joe Gibbs
+  - Keerthi Kumaran
+  - Varadharajan Muruganandham
+  - Bo Xiao
+  - Paul Kairys
+  - Gabor Halasz
+  - Arnab Banerjee
+  - Phillip C. Lotshaw
+date: 2025-07-01
+publishDate: 2025-07-01
 type: publication
 publication_types: ["none"]
 publication: "arXiv:2507.08939"
