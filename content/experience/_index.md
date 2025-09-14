@@ -2,6 +2,10 @@
 title: 'Experience'
 date: 2025-09-14
 sections:
+  - block: hero
+    content:
+      title: "Test Block"
+      text: "If you see this, blocks are working."
   - block: resume-experience
     content:
       username: admin
