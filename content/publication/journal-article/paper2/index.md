@@ -17,7 +17,7 @@ authors:
   - arnab-banerjee
 date: 2025-06-01
 publishDate: 2025-06-01
-publication_types: ["none"]
+publication_types: ["article-journal"]
 publication: "*arXiv:2503.14371*"
 featured: false
 links:

@@ -16,7 +16,7 @@ authors:
   - Phillip C. Lotshaw
 date: 2025-07-01
 publishDate: 2025-07-01
-publication_types: ["none"]
+publication_types: ["article-journal"]
 publication: "arXiv:2507.08939"
 featured: true
 links:
