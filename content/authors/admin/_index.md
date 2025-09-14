@@ -106,38 +106,8 @@ experience :
       - Designing scalable quantum algorithms for near-term devices.
       - Publishing in peer-reviewed journals and collaborating across disciplines.
 
-# Skills
-skills :
-  - name : Technical Skills
-    items :
-      - name : Python
-        description : "Used extensively for quantum simulations and data analysis."
-        percent : 95
-        icon : code-bracket
-      - name : Quantum Programming
-        description : "Experienced with Qiskit, PennyLane, and Cirq."
-        percent : 90
-        icon : atom
-      - name : Machine Learning
-        description : "Applied ML techniques using PyTorch, TensorFlow, and Scikit-learn."
-        percent : 85
-        icon : chart-bar
-      - name : Scientific Computing
-        description : "Proficient in Matlab, Mathematica, and LATEX."
-        percent : 80
-        icon : flask
-  - name : Hobbies
-    color : '#eeac02'
-    color_border : '#f0bf23'
-    items :
-      - name : Coding Challenges
-        description : "Enjoy solving quantum and ML problems in hackathons."
-        percent : 90
-        icon : trophy
-      - name : Blogging
-        description : "Occasional posts on quantum computing and research life."
-        percent : 70
-        icon : pen
+# Remove the skills and hobbies sections from the author profile
+
 ---
 ## About Me
 

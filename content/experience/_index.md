@@ -5,4 +5,13 @@ sections:
   - block: experience
     content:
       username: admin
+  - block: education
+    content:
+      username: admin
+  - block: skills
+    content:
+      username: admin
+  - block: hobbies
+    content:
+      username: admin
 ---
