@@ -104,6 +104,7 @@ experience :
       Responsibilities include:
       - Conducting research on quantum simulations and circuit optimization.
       - Designing scalable quantum algorithms for near-term devices.
+
       - Publishing in peer-reviewed journals and collaborating across disciplines.
 
 ---
@@ -118,7 +119,5 @@ experience :
   PhD student in Physics at Purdue University, focusing on quantum computing, simulations, and error suppression.
   Interned at IBM Quantum; experienced in GPU-accelerated quantum workflows, QEC, and hybrid quantum-classical algorithms.
 </span>
-  Interned at IBM Quantum; experienced in GPU-accelerated quantum workflows, QEC, and hybrid quantum-classical algorithms.
-
 </span>
 
