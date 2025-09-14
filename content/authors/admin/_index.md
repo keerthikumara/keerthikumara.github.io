@@ -106,6 +106,7 @@ experience :
       - Designing scalable quantum algorithms for near-term devices.
       - Publishing in peer-reviewed journals and collaborating across disciplines.
 
+---
 ## About Me
 
 <span style="
