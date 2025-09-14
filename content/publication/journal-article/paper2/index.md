@@ -16,7 +16,7 @@ authors:
   - sabre-kais
   - arnab-banerjee
 date: 2025-06-01
-publication_types: ["article-journal"]
+publication_types: ["none"]
 publication: "*arXiv:2503.14371*"
 featured: false
 links:

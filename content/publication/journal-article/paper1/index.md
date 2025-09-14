@@ -13,7 +13,7 @@ authors:
 date: 2025-07-01
 publishDate: 2025-07-01
 type: publication
-publication_types: ["article-journal"]
+publication_types: ["none"]
 publication: "arXiv:2507.08939"
 links:
   - icon: file-pdf
