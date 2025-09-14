@@ -106,6 +106,36 @@ experience:
       - Designing scalable quantum algorithms for near-term devices.
       - Publishing in peer-reviewed journals and collaborating across disciplines.
 
+work:
+  - position: Quantum Computing Research Intern
+    company_name: IBM Quantum, Yorktown Heights, NY
+    company_url: 'https://www.research.ibm.com/quantum'
+    date_start: 2025-05-01
+    date_end: 2025-07-31
+    summary: |
+      Responsibilities included:
+      - Improved sample-based quantum diagonalization sub-routines.
+  - position: Quantum Computing Research Intern
+    company_name: IBM Quantum, Yorktown Heights, NY
+    company_url: 'https://www.research.ibm.com/quantum'
+    date_start: 2024-05-01
+    date_end: 2025-02-28
+    summary: |
+      Responsibilities included:
+      - Simulated superdiffusion breakdown in 2D Heisenberg chains using quantum circuits.
+      - Designed and implemented robust error mitigation strategies.
+      - Developed internal tools for correlation analysis and testing.
+  - position: Research Assistant
+    company_name: Purdue University, West Lafayette, IN
+    company_url: 'https://www.purdue.edu'
+    date_start: 2022-08-01
+    date_end: null
+    summary: |
+      Responsibilities include:
+      - Conducting research on quantum simulations and circuit optimization.
+      - Designing scalable quantum algorithms for near-term devices.
+      - Publishing in peer-reviewed journals and collaborating across disciplines.
+
 # Skills
 skills:
   - name: Quantum Computing
