@@ -1,17 +1,17 @@
 ---
-title: "Experience"
+title: 'Experience'
 date: 2023-01-01
 sections:
-  - block: experience
+  - block: resume-experience
     content:
       username: admin
-  - block: education
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
+  - block: resume-skills
     content:
+      title: Skills & Hobbies
       username: admin
-  - block: skills
-    content:
-      username: admin
-  - block: hobbies
-    content:
-      username: admin
+    design:
+      show_skill_percentage: false
 ---
