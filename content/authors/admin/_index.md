@@ -148,7 +148,8 @@ skills :
   padding: 6px 12px;
   border-radius: 8px;
 ">
-  Keerthi Kumaran is a graduate researcher in quantum computing.
+  PhD student in Physics at Purdue University, focusing on quantum computing, simulations, and error suppression.
+  Interned at IBM Quantum; experienced in GPU-accelerated quantum workflows, QEC, and hybrid quantum-classical algorithms.
 </span>
 
 
