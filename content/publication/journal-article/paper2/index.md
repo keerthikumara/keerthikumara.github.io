@@ -1,6 +1,5 @@
 ---
 title: "Quantum simulation of superdiffusion breakdown in Heisenberg chains via 2D interactions"
-authors:
   - keerthi-kumaran
   - manas-sajjan
   - bibek-pokharel
@@ -19,7 +18,6 @@ links:
   - type: pdf
     url: "https://arxiv.org/abs/2503.14371"
 ---
-
 
 <img src="/uploads/superdiffusion_breakdown.png" alt="Superdiffusion breakdown simulation overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 

@@ -17,7 +17,6 @@ publication: "arXiv:2507.08939"
 featured: true
 links:
   - icon: file-pdf
-    name: PDF
     url: "https://arxiv.org/abs/2507.08939"
 ---
 ---
@@ -38,7 +37,6 @@ type: publication
 publication_types: ["none"]
 publication: "arXiv:2507.08939"
 links:
-  - icon: file-pdf
     name: PDF
     url: "https://arxiv.org/abs/2507.08939"
 featured: true

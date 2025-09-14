@@ -1,6 +1,5 @@
 ---
 title: "Transmon qutrit‑based simulation of spin‑1 AKLT systems"
-authors:
   - keerthi-kumaran
   - faisal-alam
   - norhan-eassa
@@ -18,7 +17,6 @@ links:
   - type: pdf
     url: "https://arxiv.org/abs/2412.19786"
 ---
-
 
 <img src="/uploads/aklt_overview.png" alt="AKLT qutrit simulation overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 
