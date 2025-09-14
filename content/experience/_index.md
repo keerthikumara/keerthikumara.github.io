@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2022-01-01
+date: 2024-10-01
 sections:
   - block: experience
     content:
