@@ -1,17 +1,23 @@
 ---
 title: 'Experience'
 date: 2025-09-14
+type: landing
+
 sections:
-  - block: resume-experience
+  - block: experience
     content:
+      title: Experience
+      subtitle:
+      text:
       username: admin
     design:
-      date_format: 'January 2006'
-      is_education_first: false
-  - block: resume-skills
+      columns: '2'
+  - block: accomplishments
     content:
-      title: Skills & Hobbies
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      text:
       username: admin
     design:
-      show_skill_percentage: false
+      columns: '2'
 ---

@@ -106,6 +106,18 @@ experience:
       - Designing scalable quantum algorithms for near-term devices.
       - Publishing in peer-reviewed journals and collaborating across disciplines.
 
+# Skills
+skills:
+  - name: Quantum Computing
+    percent: 90
+    icon: chart-bar
+  - name: Python
+    percent: 85
+    icon: code-bracket
+  - name: Machine Learning
+    percent: 80
+    icon: circle-stack
+
 ---
 
 ## About Me
