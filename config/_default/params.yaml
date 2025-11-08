@@ -17,6 +17,8 @@ marketing:
     description: "Keerthi Kumaran's space"
     twitter: 'GetResearchDev'
   analytics:
+    # Set your GA4 Measurement ID (format: G-XXXXXXXXXX) to enable Google Analytics.
+    # Example: google_analytics: 'G-XXXXXXX'
     google_analytics: ''
     baidu_tongji: ''
     plausible: ''

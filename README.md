@@ -74,3 +74,42 @@ See full list on [Google Scholar](https://scholar.google.com/citations?user=DK3Q
 
 Open to collaborations, research discussions, and new opportunities in quantum computing.  
 Feel free to reach out via [email](mailto:kalagars@purdue.edu) or connect on [LinkedIn](https://linkedin.com/in/keerthikumaran).
+
+---
+
+## Analytics / Site Visits
+
+This site supports Google Analytics (GA4). To enable visit tracking, add your GA4 Measurement ID (format: `G-XXXXXXXXXX`) to `config/_default/params.yaml` at `marketing.analytics.google_analytics`.
+
+Privacy options:
+- Enable `features.privacy_pack` in `config/_default/params.yaml` to access HugoBlox privacy features.
+- For privacy-first analytics consider using Plausible, Fathom, or Pirsch (params are available under `marketing.analytics`).
+
+After setting the measurement ID, HugoBlox will automatically include the GA4 snippet in the page head.
+
+### Visible visit counter (Netlify Functions)
+
+I added an optional visible visit counter that stores the count in a JSON file in this repository and is updated by a Netlify Function.
+
+Required Netlify environment variables (set in Netlify dashboard for the site):
+
+- `GITHUB_TOKEN` — a GitHub personal access token with repo permissions (public_repo for a public repo). This token lets the function update the JSON file that stores the counter.
+- `GITHUB_REPO` — the repository path (format `owner/repo`, for example `keerthikumara/keerthikumara.github.io`).
+- `GITHUB_FILE_PATH` — path to the JSON file that will store the count (default: `data/visit-count.json`).
+- `GITHUB_BRANCH` — (optional) branch to commit to; defaults to `main`.
+
+How it works:
+
+1. A small Netlify Function is available at `/.netlify/functions/visit-counter`.
+2. The site partial `layouts/partials/visit-counter.html` posts to that function on page load. The function increments the counter by updating the file specified by `GITHUB_FILE_PATH` in the repo and returns the new count.
+3. The partial displays the count inline. To show it on your site, include the partial where you'd like the counter to appear, e.g. in a footer partial:
+
+  {{/* in your layout or footer partial */}}
+  {{ partial "visit-counter.html" . }}
+
+Security & notes:
+
+- The GitHub token must be kept secret — do NOT commit it to the repository. Use Netlify site environment variables.
+- This approach writes to your repository on every page view; for very high traffic sites, consider using a hosted key-value store (Upstash, Fauna, Redis, or Netlify Edge KV) to avoid frequent commits.
+- If you prefer a privacy-preserving, serverless counter with no Git writes, I can scaffold an alternative using Upstash or Netlify Edge KV (requires additional account/setup).
+
