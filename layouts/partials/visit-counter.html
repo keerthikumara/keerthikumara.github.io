@@ -1,0 +1,29 @@
+<div id="visit-counter" style="display:inline-block; padding:6px 10px; background:#f3f4f6; border-radius:6px; font-size:0.95rem;">
+  <span id="visit-count">...</span> visits
+</div>
+<script>
+(async function(){
+  const el = document.getElementById('visit-counter');
+  const countSpan = document.getElementById('visit-count');
+  try{
+    // POST to increment and get current count
+    const res = await fetch('/.netlify/functions/visit-counter', { method: 'POST' });
+    if (res.ok) {
+      const j = await res.json();
+      countSpan.textContent = j.count;
+    } else {
+      // fallback: GET
+      const r2 = await fetch('/.netlify/functions/visit-counter');
+      if (r2.ok) {
+        const j2 = await r2.json();
+        countSpan.textContent = j2.count;
+      } else {
+        countSpan.textContent = '-';
+      }
+    }
+  }catch(err){
+    countSpan.textContent = '-';
+    console.error('visit-counter error', err);
+  }
+})();
+</script>
