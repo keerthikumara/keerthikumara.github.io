@@ -1,10 +1,9 @@
 ---
-title: 'Qiskit Calibration Toolkit & AKLT Simulations'
-company: 'IBM & Qiskit Community'
-company_url: 'https://github.com/qiskit-community/qutrit-calibration/tree/main'
-location: 'Remote'
-date_start: '2023-01-01'
-date_end: '2024-11-30'
-description: |
-  Our spin-1 AKLT models directly led to the development and deployment of transmon qubit calibration codes in the Qiskit Community project (qiskit-calibration).
+title: Qiskit Calibration Toolkit & AKLT Simulations
+date: 2023-10-24
+external_link: https://github.com/qiskit-community/qutrit-calibration/tree/main
+summary: A brief summary of the project for the card view.
+tags:
+  - Qiskit
+  - Quantum Simulation
 ---
