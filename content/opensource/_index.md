@@ -9,7 +9,7 @@ date: 2025-11-30
 **Duration:** January 2023 - November 2024  
 **Location:** Remote
 
-My spin-1 AKLT models directly led to the development and deployment of transmon qubit calibration codes in the Qiskit Community project (qiskit-collaboration).
+Our spin-1 AKLT models directly led to the development and deployment of transmon qubit calibration codes in the Qiskit Community project [qiskit-collaboration](https://github.com/keerthikumara/qutrit-calibration).
 
 - Implemented AKLT ground-state simulations on superconducting qubits
 - Contributed to transmon qubit calibration methodology  
