@@ -32,20 +32,5 @@ Our spin-1 AKLT models directly led to the development and deployment of transmo
 - Contributed to transmon qutrit calibration methodology
 - Collaborated with the Qiskit Community on quantum circuit optimization
 
-### Usage Example
-
-The toolkit allows users to instantiate a `QutritCalibrations` object directly from a backend and run calibration routines with minimal setup:
-
-```python
-from qiskit_qutrit_calibration import library
-
-# Example: Run a rough frequency calibration on the EF transition
-exp = library.RoughEFFrequencyCal(
-    (qubit_index,), 
-    calibrations=cals, 
-    backend=backend
-)
-exp.run()
-```
 
 > **Note:** This project is currently in an alpha release state. It serves as a foundational tool for enabling advanced research, such as the simulation of **AKLT models** and other spin-1 many-body systems on superconducting hardware.
