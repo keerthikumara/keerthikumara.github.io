@@ -6,10 +6,10 @@
 main:
   - name: Bio
     url: /
-    weight: 10
+    weight: 1
   - name: Papers
     url: /#papers
-    weight: 11
+    weight: 3
   # - name: Talks
   #   url: /#talks
   #   weight: 12
@@ -18,10 +18,10 @@ main:
   #   weight: 13
   - name: Experience
     url: experience/
-    weight: 20
+    weight: 2
   - name: Open Source Contributions
     url: /opensource/
-    weight: 15
+    weight: 5
   # - name: Projects
   #   url: projects/
   #   weight: 30
