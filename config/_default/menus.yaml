@@ -10,6 +10,9 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
+     - name: Open Source Contributions
+        url: /opensource/
+           weight: 15
   # - name: Talks
   #   url: /#talks
   #   weight: 12
