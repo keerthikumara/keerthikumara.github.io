@@ -8,8 +8,12 @@ tags:
   - Qutrits
   - Open Source
 
-# This creates the "Code" button at the top of the page
-url_code: "https://github.com/qiskit-community/qutrit-calibration/tree/main"
+# Method: Explicit Custom Link (Prevents broken relative links)
+links:
+  - name: Code
+    url: https://github.com/qiskit-community/qutrit-calibration/tree/main
+    icon_pack: fab
+    icon: github
 ---
 
 ## Project Overview
