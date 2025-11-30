@@ -1,7 +1,6 @@
 ---
 title: Open Source Contributions
 date: 2025-11-30
-type: page
 ---
 
 ## Qiskit Collaboration Toolkit & AKLT Simulations
