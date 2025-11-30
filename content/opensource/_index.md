@@ -3,12 +3,13 @@ title: Open Source Contributions
 date: 2025-11-30
 type: landing
 sections:
-  - block: experience
+  - block: portfolio
     content:
       title: Open Source Contributions
-      subtitle: null
-      text: null
-      username: admin
+      filters:
+        folders:
+          - opensource
     design:
       columns: '2'
+      view: masonry
 ---
