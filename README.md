@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=keerthikumara&color=blue&style=flat-square&label=Profile+Views)
+
 # 👋 Hi, I'm Keerthi Kumaran
 
 🎓 **PhD Candidate in Physics @ Purdue University**  
