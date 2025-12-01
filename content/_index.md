@@ -48,7 +48,7 @@ sections:
       filters:
           publication_types:
         - article-journal
-      exclude_featured: false
+    exclude_featured: false
     design:
       view: citation
       columns: 1
