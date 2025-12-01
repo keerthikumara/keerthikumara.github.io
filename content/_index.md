@@ -48,6 +48,8 @@ sections:
       filters:
         types:
           - publication
+          publication_types:
+        - article-journal
       exclude_featured: false
     design:
       view: citation
