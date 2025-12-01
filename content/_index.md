@@ -43,7 +43,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Journal Articles
+      title: Latest Journal articles
       text: ""
       filters:
         types:
