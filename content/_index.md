@@ -7,28 +7,36 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: markdown
+  - block: resume-biography-3
     content:
-      title: "About Me"
+      username: admin
       text: |
-        <div>
         Hello, I am Keerthi Kumaran.<br>
-        <strong>PhD candidate in Physics, Purdue University</strong>
-        <div class="main-social-links" style="margin: 0.5em 0 1.5em 0;">
-          <a href="https://keerthikumara.github.io">Website</a>
-          <a href="https://github.com/keerthikumara">GitHub</a>
-          <a href="https://linkedin.com/in/keerthikumaran">LinkedIn</a>
-          <a href="https://scholar.google.com/citations?user=DK3QFcQAAAAJ&hl=en">Google Scholar</a>
-          <a href="https://inspirehep.net/authors/2687921">INSPIRE-HEP</a>
-        </div>
-        <a class="main-learnmore" href="/uploads/resume.pdf" style="margin-bottom:1.5em;display:inline-block;">Download CV</a>
-        <br>
+        <strong>PhD candidate in Physics, Purdue University</strong><br><br>
+        <a href="https://keerthikumara.github.io">Website</a> &nbsp;|&nbsp;
+        <a href="https://github.com/keerthikumara">GitHub</a> &nbsp;|&nbsp;
+        <a href="https://linkedin.com/in/keerthikumaran">LinkedIn</a> &nbsp;|&nbsp;
+        <a href="https://scholar.google.com/citations?user=DK3QFcQAAAAJ&hl=en">Google Scholar</a> &nbsp;|&nbsp;
+        <a href="https://inspirehep.net/authors/2687921">INSPIRE-HEP</a>
+        <br><br>
         I build reliable, hardware‑aware quantum algorithms and simulations for practically relevant applications that run on today’s pre–fault‑tolerant devices while helping chart a path toward future fault‑tolerant quantum computing. I work on hardware‑aware quantum simulations, error‑mitigation methods, and utility‑scale workflows that push current systems toward classically challenging regimes. Through my work at Purdue and IBM Quantum, especially in Sample‑Based Quantum Diagonalization and utility‑scale experiments, I develop methods that scale as hardware improves. My vision is to advance meaningful Quantum Advantage by identifying promising applications and contributing to open‑source tools.
-        <div style="margin-top:2em;">
-          <a class="main-learnmore" href="/research/">Research</a>
-          <a class="main-learnmore" href="/vision/">Vision</a>
-        </div>
-        </div>
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+    design:
+      css_class: dark
+      avatar:
+        size: medium
+        shape: circle
+      background:
+        color: black
+        image:
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
