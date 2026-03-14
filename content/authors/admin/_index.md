@@ -44,6 +44,11 @@ name: Keerthi Kumaran
 
 I build reliable, hardware‑aware quantum algorithms and simulations for practically relevant applications that run on today’s pre–fault‑tolerant devices while helping chart a path toward future fault‑tolerant quantum computing. I work on hardware‑aware quantum simulations, error‑mitigation methods, and utility‑scale workflows that push current systems toward classically challenging regimes. Through my work at Purdue and IBM Quantum, especially in Sample‑Based Quantum Diagonalization and utility‑scale experiments, I develop methods that scale as hardware improves. My vision is to advance meaningful Quantum Advantage by identifying promising applications and contributing to open‑source tools.
 
+<div style="margin-top:2em;">
+  <a class="main-learnmore" href="/research/">Research</a>
+  <a class="main-learnmore" href="/vision/">Vision</a>
+</div>
+
 </div>
     button:
       text: 'View Profile'
