@@ -46,8 +46,8 @@ sections:
       title: Latest Journal articles
       text: ""
       filters:
-          publication_types:
-        - article-journal
+        publication_types:
+          - article-journal
     exclude_featured: false
     design:
       view: citation
