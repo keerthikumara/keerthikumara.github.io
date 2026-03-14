@@ -49,9 +49,9 @@ sections:
     content:
       title: "Interests, Education, and Experience"
       text: |
-        <div style="display: flex; justify-content: center; margin-top: 2em;">
-          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; text-align:left; font-size:0.85em; max-width: 1400px; width: 95vw; display: flex; flex-direction: row; justify-content: space-between;">
-            <div style="width:48%; min-width:260px; box-sizing:border-box; padding: 0 18px;">
+        <div style="display: flex; justify-content: center; margin-top: 2em; overflow-x: hidden; width: 100%;">
+          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; text-align:left; font-size:0.85em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
+            <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
             <strong>Interests</strong><br>
             <ul style="margin-top:0.5em;">
               <li>Quantum simulations</li>
@@ -60,8 +60,8 @@ sections:
               <li>Quantum Error suppression</li>
             </ul>
           </div>
-            <div style="display:inline-block; vertical-align:top; width:8px; min-width:8px; height:100%; background:rgba(0,0,0,0.10); margin:0 12px;"></div>
-            <div style="width:48%; min-width:260px; box-sizing:border-box; padding: 0 18px;">
+            <div style="display:none;"></div>
+            <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
             <strong>Education</strong><br>
             <ul style="margin-top:0.5em;">
               <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
@@ -75,8 +75,8 @@ sections:
               </li>
             </ul>
           </div>
-          <div style="display:inline-block; vertical-align:top; width:8px; min-width:8px; height:100%; background:rgba(0,0,0,0.10); margin:0 12px;"></div>
-          <div style="width:48%; min-width:260px; box-sizing:border-box; padding: 0 18px;">
+          <div style="display:none;"></div>
+          <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
             <strong>Experience</strong><br>
             <ul style="margin-top:0.5em;">
               <li><b>Intern</b>, IBM Quantum (2024, 2025)<br>
