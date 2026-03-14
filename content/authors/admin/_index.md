@@ -153,7 +153,18 @@ skills:
 
 
 
-<div style="color: #800080">
+
+<style>
+.content-section {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  border-radius: 10px;
+  color: #ffffff;
+}
+</style>
+
+<div class="content-section">
 
 # 👋 Hi, I'm Keerthi Kumaran
 
