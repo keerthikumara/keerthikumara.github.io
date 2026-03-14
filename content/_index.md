@@ -9,6 +9,57 @@ design:
 sections:
   - block: markdown
     content:
+      title: "About Me"
+      text: |
+        <style>
+        .content-section {
+          background: rgba(255, 255, 255, 0.15);
+          backdrop-filter: blur(10px);
+          padding: 20px;
+          border-radius: 10px;
+          color: #111;
+        }
+        .main-social-links a {
+          color: #111;
+          margin-right: 1.2em;
+          font-weight: bold;
+        }
+        .main-learnmore {
+          display: inline-block;
+          margin-top: 1.5em;
+          padding: 0.7em 1.5em;
+          background: rgba(128,0,128,0.07);
+          color: #111;
+          border-radius: 8px;
+          text-decoration: none;
+          font-weight: bold;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+          transition: background 0.2s;
+        }
+        .main-learnmore:hover {
+          background: rgba(128,0,128,0.15);
+        }
+        </style>
+        <div class="content-section">
+        Hello, I am Keerthi Kumaran.<br>
+        <strong>PhD candidate in Physics, Purdue University</strong>
+        <div class="main-social-links" style="margin: 0.5em 0 1.5em 0;">
+          <a href="https://keerthikumara.github.io">Website</a>
+          <a href="https://github.com/keerthikumara">GitHub</a>
+          <a href="https://linkedin.com/in/keerthikumaran">LinkedIn</a>
+          <a href="https://scholar.google.com/citations?user=DK3QFcQAAAAJ&hl=en">Google Scholar</a>
+          <a href="https://inspirehep.net/authors/2687921">INSPIRE-HEP</a>
+        </div>
+        <a class="main-learnmore" href="/uploads/resume.pdf" style="margin-bottom:1.5em;display:inline-block;">Download CV</a>
+        <br>
+        I build reliable, hardware‑aware quantum algorithms and simulations for practically relevant applications that run on today’s pre–fault‑tolerant devices while helping chart a path toward future fault‑tolerant quantum computing. I work on hardware‑aware quantum simulations, error‑mitigation methods, and utility‑scale workflows that push current systems toward classically challenging regimes. Through my work at Purdue and IBM Quantum, especially in Sample‑Based Quantum Diagonalization and utility‑scale experiments, I develop methods that scale as hardware improves. My vision is to advance meaningful Quantum Advantage by identifying promising applications and contributing to open‑source tools.
+        <div style="margin-top:2em;">
+          <a class="main-learnmore" href="/research/">Research</a>
+          <a class="main-learnmore" href="/vision/">Vision</a>
+        </div>
+        </div>
+  - block: markdown
+    content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
