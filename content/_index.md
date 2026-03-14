@@ -6,7 +6,7 @@ type: landing
 design:
   spacing: "6rem"
 
-
+sections:
   - block: markdown
     content:
       title: '📚 My Research'
