@@ -11,36 +11,7 @@ sections:
     content:
       title: "About Me"
       text: |
-        <style>
-        .content-section {
-          background: rgba(255, 255, 255, 0.15) url('assets/media/stacked-peaks.svg') center/cover no-repeat;
-          backdrop-filter: blur(10px);
-          padding: 20px;
-          border-radius: 10px;
-          color: #111;
-        }
-        .main-social-links a {
-          color: #111;
-          margin-right: 1.2em;
-          font-weight: bold;
-        }
-        .main-learnmore {
-          display: inline-block;
-          margin-top: 1.5em;
-          padding: 0.7em 1.5em;
-          background: rgba(128,0,128,0.07);
-          color: #111;
-          border-radius: 8px;
-          text-decoration: none;
-          font-weight: bold;
-          box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-          transition: background 0.2s;
-        }
-        .main-learnmore:hover {
-          background: rgba(128,0,128,0.15);
-        }
-        </style>
-        <div class="content-section">
+        <div>
         Hello, I am Keerthi Kumaran.<br>
         <strong>PhD candidate in Physics, Purdue University</strong>
         <div class="main-social-links" style="margin: 0.5em 0 1.5em 0;">
