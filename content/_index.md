@@ -78,6 +78,18 @@ sections:
               </li>
             </ul>
           </div>
+          <div style="display:inline-block; vertical-align:top; width:8px; min-width:8px; height:100%; background:rgba(0,0,0,0.10); margin:0 12px;"></div>
+          <div style="width:48%; min-width:260px; box-sizing:border-box; padding: 0 18px;">
+            <strong>Experience</strong><br>
+            <ul style="margin-top:0.5em;">
+              <li><b>Intern</b>, IBM Quantum (2024, 2025)<br>
+                Quantum algorithms, error mitigation, and simulation projects.
+              </li>
+              <li><b>Research Assistant</b>, Purdue University (2022– )<br>
+                Quantum simulations and circuit optimization.
+              </li>
+            </ul>
+          </div>
           </div>
         </div>
 
