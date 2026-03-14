@@ -12,11 +12,18 @@ Welcome to my vision section. Here you'll find in-depth articles on:
 
 Each post is tagged for easy navigation and may reference related GitHub code or other posts.
 
-{{< collection
-    filter_type="post"
-    filter_folder="/vision/"
-    view="card"
-    columns="2"
-    show_tags=true
-    show_excerpt=true
->}}
+
+{{ range .Pages }}
+### [{{ .Title }}]({{ .RelPermalink }})
+
+{{ with .Params.tags }}
+<span>Tags: {{ delimit . ", " }}</span>
+{{ end }}
+
+{{ if .Params.featured_image }}
+<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:300px; margin:1em 0;" />
+{{ end }}
+
+{{ .Summary }}
+---
+{{ end }}
