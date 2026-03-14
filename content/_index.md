@@ -15,7 +15,7 @@ sections:
         <style>
         .glass-links a { color: #111 !important; font-weight: bold; }
         </style>
-        <span style="font-size:1.05em;">Hello, I am Keerthi Kumaran.</span><br>
+        <span style="font-size:1.7em; font-weight:600;">Hello, I am Keerthi Kumaran.</span><br>
         <strong style="color:#111;">PhD candidate in Physics, Purdue University</strong><br><br>
         <span class="glass-links">
         <a href="https://keerthikumara.github.io">Website</a> &nbsp;|&nbsp;
@@ -49,29 +49,33 @@ sections:
     content:
       title: "Interests & Education"
       text: |
-        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #111; margin-top: 2em;">
-        <strong>Interests</strong><br>
-        <ul style="margin-top:0.5em;">
-          <li>Quantum simulations</li>
-          <li>Quantum-Classical Hybrid workflows</li>
-          <li>Quantum Error mitigation</li>
-          <li>Quantum Error suppression</li>
-        </ul>
-        <strong>Education</strong><br>
-        <ul style="margin-top:0.5em;">
-          <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
-            GPA: 3.9/4.0<br>
-            Research focus: quantum simulations, error mitigation, and quantum circuit optimization. Contributed to high-impact projects at IBM Quantum and Purdue University.
-          </li>
-          <li><b>BS in Physics</b>, Indian Institute of Science (IISc), Bengaluru, India (2018–2022)<br>
-            CGPA: 9.3/10.0<br>
-            Completed foundational and advanced coursework in physics, with early exposure to quantum computing and research.
-          </li>
-          <li><b>High School</b>, Maharishi Vidya Mandir, Chennai, India (2016–2018)<br>
-            Score: 486/500<br>
-            Strong academic performance with a focus on science and mathematics.
-          </li>
-        </ul>
+        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #111; margin-top: 2em; display: flex; gap: 2em; flex-wrap: wrap;">
+          <div style="flex:1 1 250px; min-width:220px;">
+            <strong>Interests</strong><br>
+            <ul style="margin-top:0.5em;">
+              <li>Quantum simulations</li>
+              <li>Quantum-Classical Hybrid workflows</li>
+              <li>Quantum Error mitigation</li>
+              <li>Quantum Error suppression</li>
+            </ul>
+          </div>
+          <div style="flex:2 1 350px; min-width:260px;">
+            <strong>Education</strong><br>
+            <ul style="margin-top:0.5em;">
+              <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
+                GPA: 3.9/4.0<br>
+                Research focus: quantum simulations, error mitigation, and quantum circuit optimization. Contributed to high-impact projects at IBM Quantum and Purdue University.
+              </li>
+              <li><b>BS in Physics</b>, Indian Institute of Science (IISc), Bengaluru, India (2018–2022)<br>
+                CGPA: 9.3/10.0<br>
+                Completed foundational and advanced coursework in physics, with early exposure to quantum computing and research.
+              </li>
+              <li><b>High School</b>, Maharishi Vidya Mandir, Chennai, India (2016–2018)<br>
+                Score: 486/500<br>
+                Strong academic performance with a focus on science and mathematics.
+              </li>
+            </ul>
+          </div>
         </div>
 
 
