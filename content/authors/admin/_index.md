@@ -187,14 +187,15 @@ skills:
 
 <div class="content-section">
 
-# 👋 Keerthi Kumaran
+# 👋Hello, I am Keerthi Kumaran
 **PhD Candidate in Physics**<br>
 Purdue University
 
 <br>
 
-<strong>Research Focus</strong><br>
-I build reliable, hardware‑aware quantum algorithms and simulations for practically relevant applications that run on today’s pre–fault‑tolerant devices while helping chart a path toward future fault‑tolerant quantum computing. I work on hardware‑aware quantum simulations, error‑mitigation methods, and utility‑scale workflows that push current systems toward classically challenging regimes. Through my work at Purdue and IBM Quantum, especially in Sample‑Based Quantum Diagonalization and utility‑scale experiments, I develop methods that scale as hardware improves. My vision is to advance meaningful Quantum Advantage by identifying promising applications and contributing to open‑source tools.
+
+<strong>My Research</strong><br>
+I develop hardware-aware quantum algorithms and simulations for real-world applications on today’s quantum devices, advancing utility-scale quantum workflows. Please reach out to collaborate!
 
 <div class="main-social-links">
   <a href="https://keerthikumara.github.io">Website</a>
@@ -204,6 +205,8 @@ I build reliable, hardware‑aware quantum algorithms and simulations for practi
   <a href="https://inspirehep.net/authors/2687921">INSPIRE-HEP</a>
 </div>
 
+
+<a class="main-learnmore" href="/research/">Research</a>
 <a class="main-learnmore" href="/authors/admin/about/">Learn more</a>
 
 </div>
