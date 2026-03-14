@@ -7,11 +7,14 @@ description: "Explore my published and in-progress research articles. Each artic
 
 Below are selected research articles. Click on any article to view a figure and a short description.
 
-{{< collection
-    filter_type="publication"
-    filter_folder="/publication/"
-    view="card"
-    columns="2"
-    show_figure=true
-    show_excerpt=true
->}}
+
+{{ range .Pages }}
+### [{{ .Title }}]({{ .RelPermalink }})
+
+{{ if .Params.featured_image }}
+<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:300px; margin:1em 0;" />
+{{ end }}
+
+{{ .Summary }}
+---
+{{ end }}
