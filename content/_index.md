@@ -43,12 +43,12 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Journal Articles
+      title: Latest Journal articles
       text: ""
       filters:
-        types:
-          - publication
-      exclude_featured: false
+          publication_types:
+        - article-journal
+    exclude_featured: false
     design:
       view: citation
       columns: 1
