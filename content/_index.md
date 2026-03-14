@@ -49,8 +49,8 @@ sections:
     content:
       title: "Interests & Education"
       text: |
-        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #111; margin-top: 2em; text-align:left; font-size:1em;">
-          <div style="display:inline-block; vertical-align:top; width:45%; min-width:200px; box-sizing:border-box; padding: 0 12px;">
+        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; margin-top: 2em; text-align:left; font-size:0.98em; max-width: 1100px; margin-left:auto; margin-right:auto;">
+          <div style="display:inline-block; vertical-align:top; width:48%; min-width:260px; box-sizing:border-box; padding: 0 18px;">
             <strong>Interests</strong><br>
             <ul style="margin-top:0.5em;">
               <li>Quantum simulations</li>
@@ -59,8 +59,8 @@ sections:
               <li>Quantum Error suppression</li>
             </ul>
           </div>
-          <div style="display:inline-block; vertical-align:top; width:5px; min-width:5px; height:100%; background:rgba(0,0,0,0.10); margin:0 8px;"></div>
-          <div style="display:inline-block; vertical-align:top; width:50%; min-width:220px; box-sizing:border-box; padding: 0 12px;">
+          <div style="display:inline-block; vertical-align:top; width:8px; min-width:8px; height:100%; background:rgba(0,0,0,0.10); margin:0 12px;"></div>
+          <div style="display:inline-block; vertical-align:top; width:48%; min-width:260px; box-sizing:border-box; padding: 0 18px;">
             <strong>Education</strong><br>
             <ul style="margin-top:0.5em;">
               <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
