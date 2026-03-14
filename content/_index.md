@@ -13,7 +13,7 @@ sections:
       text: |
         <style>
         .content-section {
-          background: rgba(255, 255, 255, 0.15) url('/assets/media/stacked-peaks.svg') center/cover no-repeat;
+          background: rgba(255, 255, 255, 0.15) url('assets/media/stacked-peaks.svg') center/cover no-repeat;
           backdrop-filter: blur(10px);
           padding: 20px;
           border-radius: 10px;
