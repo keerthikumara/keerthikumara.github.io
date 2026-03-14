@@ -16,7 +16,7 @@ sections:
         .glass-links a { color: #111 !important; font-weight: bold; }
         </style>
         Hello, I am Keerthi Kumaran.<br>
-        <strong>PhD candidate in Physics, Purdue University</strong><br><br>
+        <strong style="color:#111;">PhD candidate in Physics, Purdue University</strong><br><br>
         <span class="glass-links">
         <a href="https://keerthikumara.github.io">Website</a> &nbsp;|&nbsp;
         <a href="https://github.com/keerthikumara">GitHub</a> &nbsp;|&nbsp;
