@@ -47,7 +47,7 @@ sections:
 
   - block: markdown
     content:
-      title: "Interests & Education"
+      title: "Interests, Education, and Experience"
       text: |
         <div style="display: flex; justify-content: center; margin-top: 2em;">
           <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; text-align:left; font-size:0.75em; max-width: 1400px; width: 95vw; display: flex; flex-direction: row; justify-content: space-between;">
@@ -66,15 +66,12 @@ sections:
             <ul style="margin-top:0.5em;">
               <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
                 GPA: 3.9/4.0<br>
-                Research focus: quantum simulations, error mitigation, and quantum circuit optimization. Contributed to high-impact projects at IBM Quantum and Purdue University.
               </li>
               <li><b>BS in Physics</b>, Indian Institute of Science (IISc), Bengaluru, India (2018–2022)<br>
                 CGPA: 9.3/10.0<br>
-                Completed foundational and advanced coursework in physics, with early exposure to quantum computing and research.
               </li>
               <li><b>High School</b>, Maharishi Vidya Mandir, Chennai, India (2016–2018)<br>
                 Score: 486/500<br>
-                Strong academic performance with a focus on science and mathematics.
               </li>
             </ul>
           </div>
