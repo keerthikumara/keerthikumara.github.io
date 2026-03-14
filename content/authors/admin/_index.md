@@ -1,9 +1,13 @@
 ---
+
 # Display name
 title: Keerthi Kumaran
 name: Keerthi Kumaran
 
 # Name pronunciation (optional)
+
+---
+
 <style>
 .content-section {
   background: rgba(255, 255, 255, 0.15);
