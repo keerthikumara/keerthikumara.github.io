@@ -49,8 +49,8 @@ sections:
     content:
       title: "Interests & Education"
       text: |
-        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #111; margin-top: 2em; display: flex; gap: 2em; flex-wrap: wrap;">
-          <div style="flex:1 1 250px; min-width:220px;">
+        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #111; margin-top: 2em; display: flex; gap: 0; flex-wrap: wrap; align-items: stretch;">
+          <div style="flex:1 1 250px; min-width:220px; padding: 16px 24px; display: flex; flex-direction: column; justify-content: center;">
             <strong>Interests</strong><br>
             <ul style="margin-top:0.5em;">
               <li>Quantum simulations</li>
@@ -59,7 +59,8 @@ sections:
               <li>Quantum Error suppression</li>
             </ul>
           </div>
-          <div style="flex:2 1 350px; min-width:260px;">
+          <div style="width:2px; background:rgba(0,0,0,0.10); margin:0 16px;"></div>
+          <div style="flex:2 1 350px; min-width:260px; padding: 16px 24px; display: flex; flex-direction: column; justify-content: center;">
             <strong>Education</strong><br>
             <ul style="margin-top:0.5em;">
               <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>

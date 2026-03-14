@@ -47,7 +47,6 @@ Hello, I am Keerthi Kumaran.<br>
 <strong>PhD candidate in Physics, Purdue University</strong>
 
 <div class="main-social-links" style="margin: 0.5em 0 1.5em 0;">
-  <a href="https://keerthikumara.github.io">Website</a>
   <a href="https://github.com/keerthikumara">GitHub</a>
   <a href="https://linkedin.com/in/keerthikumaran">LinkedIn</a>
   <a href="https://scholar.google.com/citations?user=DK3QFcQAAAAJ&hl=en">Google Scholar</a>
