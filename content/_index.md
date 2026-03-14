@@ -11,13 +11,15 @@ sections:
     content:
       username: admin
       text: |
-        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #111;">
         <style>
         .glass-links a { color: #111 !important; font-weight: bold; }
         </style>
+        <!-- Avatar and Name Glassmorphism Box -->
         <div style="text-align:center; margin-bottom: 1.2em;">
           <span style="display:inline-block; background: rgba(255,255,255,0.25); backdrop-filter: blur(10px); padding: 0.5em 1.5em; border-radius: 12px; color: #111; font-size: 1.5em; font-weight: 700; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">Keerthi Kumaran</span>
         </div>
+        <!-- About Me Glassmorphism Box -->
+        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #111;">
         <span style="font-size:1.2em; font-weight:600;">Hello, I am Keerthi Kumaran.</span><br>
         <strong style="color:#111;">PhD candidate in Physics, Purdue University</strong><br><br>
         <span class="glass-links">
