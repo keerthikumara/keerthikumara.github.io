@@ -37,6 +37,9 @@ profiles:
     url: https://www.linkedin.com/in/keerthikumaran/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=DK3QFcQAAAAJ&hl=en
+  - icon: link
+    url: https://inspirehep.net/authors/2687921
+    label: INSPIRE-HEP
 
 # Interests
 interests:
@@ -149,6 +152,9 @@ skills:
 ---
 
 
+
+<div style="color: #800080">
+
 # 👋 Hi, I'm Keerthi Kumaran
 
 🎓 **PhD Candidate in Physics @ Purdue University**  
@@ -225,4 +231,6 @@ Quantum advantage requires more than just more qubits; it requires **Error Corre
 - 🧑‍💻 **Top 15%**, QHack 2023 (Xanadu)
 
 [↑ Back to Top](#-hi-im-keerthi-kumaran)
+
+</div>
 
