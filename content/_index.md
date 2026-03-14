@@ -40,18 +40,6 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
-    id: papers
-    content:
-      title: Latest Journal articles
-      text: ""
-      filters:
-        publication_types:
-          - article-journal
-    exclude_featured: false
-    design:
-      view: citation
-      columns: 1
 
   - block: cta-card
     demo: true
