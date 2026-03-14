@@ -50,7 +50,7 @@ sections:
       title: "Interests & Education"
       text: |
         <div style="display: flex; justify-content: center; margin-top: 2em;">
-          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; text-align:left; font-size:0.6em; max-width: 1400px; width: 95vw; display: flex; flex-direction: row; justify-content: space-between;">
+          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; text-align:left; font-size:0.75em; max-width: 1400px; width: 95vw; display: flex; flex-direction: row; justify-content: space-between;">
             <div style="width:48%; min-width:260px; box-sizing:border-box; padding: 0 18px;">
             <strong>Interests</strong><br>
             <ul style="margin-top:0.5em;">
