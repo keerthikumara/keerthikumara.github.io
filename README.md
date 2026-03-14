@@ -1,76 +1,76 @@
 # 👋 Hi, I'm Keerthi Kumaran
 
 🎓 **PhD Candidate in Physics @ Purdue University**  
-🔬 **Quantum Computing Researcher | Quantum Simulations | Error Mitigation | Quantum Error Correction (QEC)**  
-📍 West Lafayette, IN  
-📧 kalagars@purdue.edu  
-🌐 [Website](https://keerthikumara.github.io/) | [GitHub](https://github.com/keerthikumara) | [LinkedIn](https://linkedin.com/in/keerthikumaran) | [Google Scholar](https://scholar.google.com/citations?user=DK3QFcQAAAAJ)
+🔬 **Quantum Computing: Simulations | Error Mitigation | QEC**  
+
+[Website](https://keerthikumara.github.io) | [GitHub](https://github.com) | [LinkedIn](https://linkedin.com/in/keerthikumaran) | [Google Scholar](https://scholar.google.com)
 
 ---
 
-## 🧠 About Me
-
-I'm a fourth-year PhD student in Physics at Purdue University, specializing in **quantum computing**. My research focuses on:
-
-- Quantum simulations of complex systems  
-- Error mitigation and suppression techniques  
-- Hardware-aware quantum circuit optimization  
-- Scalable quantum algorithm design  
-- Building foundational skills in **Quantum Error Correction (QEC)** through coursework and simulation of non-Abelian anyons for topological QEC schemes
-
-I’ve contributed to high-impact projects at **IBM Quantum** and Purdue, and I’m passionate about pushing the boundaries of quantum technology through interdisciplinary collaboration and open-source development.
+## 🗺️ Quick Navigation
+**[About Me](#about)** | **[Research Vision](#vision)** | **[Applications (Simulations & QML)](#applications)** | **[Foundations (QEC)](#qec)** | **[Achievements](#achievements)**
 
 ---
 
-## 🧪 Research Highlights
+<h2 id="about">🧠 About Me</h2>
 
-- **Transmon Qutrit-Based Simulation of Spin-1 AKLT Systems**  
-  Demonstrated qutrit advantages using calibrated superconducting transmons.  
-  [arXiv:2412.19786](https://arxiv.org/abs/2412.19786)
+I'm a PhD student at Purdue specializing in quantum computing. My work bridges the gap between theoretical physics and experimental quantum hardware. 
 
-- **Quantum Simulation of Superdiffusion Breakdown**  
-  Simulated 2D Heisenberg chains using quantum circuits with advanced error mitigation.  
-  [arXiv:2503.14371](https://arxiv.org/abs/2503.14371)
-
-- **Random Projection Using Quantum Circuits**  
-  Benchmarked quantum dimensionality reduction vs classical PCA.  
-  [Phys. Rev. Research 6, 013010 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013010)
-
-- **Physics‑Inspired Quantum Simulation of Resonating Valence Bond States**  
-  [J. Phys. Chem. A, 127(41), 8751–8764 (2023)](https://pubs.acs.org/doi/10.1021/acs.jpca.3c05172)
-
-- **Robust Chiral Edge Dynamics on a Trapped Ion Processor**  
-  [arXiv:2507.08939](https://arxiv.org/abs/2507.08939)
+- **Experience:** I've contributed to high-impact projects at [IBM Quantum](https://www.ibm.com) (Yorktown Heights) as a **Summer Research Intern** (2024 & 2025), focusing on Sample-Based Quantum Diagonalization and utility-scale experiments.
+- **Core Passion:** Pushing the boundaries of quantum technology through interdisciplinary collaboration and open-source development.
 
 ---
 
-## 🛠️ Skills & Tools
+<h2 id="vision">🚀 The Vision: Quantum Advantage & Utility</h2>
 
-**Languages**: Python, C/C++, R, MATLAB, Mathematica  
-**Quantum Frameworks**: Qiskit, PennyLane, Cirq, CUDA-Q  
-**ML Libraries**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas  
-**Simulation Tools**: qutip, scqubits, tensor networks, DMRG  
-**HPC & Software**: SLURM, CUDA, NVIDIA A30 GPUs, GitHub, LaTeX (Overleaf), Origin, SciDavis
+My research is driven by the transition from NISQ experiments to **Quantum Utility**—where quantum processors provide reliable results for problems classically out of reach.
 
----
+- **Quantum Advantage:** Achieving exponential speedups via high-dimensional Hilbert spaces.
+- **Quantum Utility:** Utilizing error-mitigated hardware (100+ qubits) to simulate physics (e.g., Heisenberg chains) where exact classical methods begin to struggle.
+> *Upcoming work: Developing utility-scale benchmarks for many-body dynamics.*
 
-## 🏆 Achievements
-
-- 📝 **Reviewer**, *Journal of Physics A*  
-- 🇩🇪 **DAAD WISE Scholar**, Germany  
-- 🇮🇳 **KVPY & NTSE Scholar**, India  
-- 🧠 **Top 15%**, QHack 2023 (Xanadu), PennyLane Coding Camp  
-- 🧑‍🏫 **Advanced Badge**, IBM Fall Quantum Challenge
+[↑ Back to Top](#-hi-im-keerthi-kumaran)
 
 ---
 
-## 📚 Publications
+<h2 id="applications">🔬 Applications</h2>
 
-See full list on [Google Scholar](https://scholar.google.com/citations?user=DK3QFcQAAAAJ)
+### ⚛️ Quantum Simulations (Core Research)
+*Mapping complex Hamiltonians to quantum hardware to study topological phases and transport.*
+
+- **Spin Systems & Qutrits:** Simulation of **AKLT Systems** using calibrated superconducting transmons.  
+  [📄 arXiv:2412.19786](https://arxiv.org) | [💻 View Code](https://github.com/aklt-qutrit)
+- **Dynamics:** **Superdiffusion Breakdown** in 2D Heisenberg Chains and **Chiral Edge Dynamics** on Trapped Ions.  
+  [📄 arXiv:2503.14371](https://arxiv.org) | [📄 arXiv:2507.08939](https://arxiv.org)
+- **Chemistry:** Simulation of **Resonating Valence Bond (RVB)** states.  
+  [📄 J. Phys. Chem. A (2023)](https://pubs.acs.org)
+
+### 🤖 Quantum Machine Learning (QML)
+*Exploring how quantum circuits can compress and process high-dimensional data.*
+
+- **Random Projection & Dimensionality Reduction:** Benchmarking quantum vs. classical PCA using random circuits.  
+  [📄 Phys. Rev. Research (2024)](https://journals.aps.org)
+
+[↑ Back to Top](#-hi-im-keerthi-kumaran)
 
 ---
 
-## 🤝 Let's Connect
+<h2 id="qec">🛡️ What Makes Advantage Possible?</h2>
 
-Open to collaborations, research discussions, and new opportunities in quantum computing.  
-Feel free to reach out via [email](mailto:kalagars@purdue.edu) or connect on [LinkedIn](https://linkedin.com/in/keerthikumaran).
+Quantum advantage requires more than just more qubits; it requires **Error Correction** and **Suppression**.
+
+- **Error Mitigation:** Using Zero-Noise Extrapolation (ZNE) and Pauli-Twirling in noisy 2D Heisenberg simulations.
+- **Quantum Error Correction (QEC):** Researching **Topological QEC** schemes and simulating non-Abelian anyons for fault-tolerant hardware.
+- **Tools:** Qiskit Runtime, hardware-aware circuit optimization, and noise characterization.
+
+[↑ Back to Top](#-hi-im-keerthi-kumaran)
+
+---
+
+<h2 id="achievements">🏆 Achievements</h2>
+- 🎖️ **Advanced Badge**, IBM Fall Quantum Challenge
+- 🇩🇪 **DAAD WISE Scholar**, Germany
+- 🧑‍🏫 **Reviewer**, *Journal of Physics A*
+- 🧑‍💻 **Top 15%**, QHack 2023 (Xanadu)
+
+[↑ Back to Top](#-hi-im-keerthi-kumaran)
