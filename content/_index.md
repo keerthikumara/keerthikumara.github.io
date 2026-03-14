@@ -15,7 +15,10 @@ sections:
         <style>
         .glass-links a { color: #111 !important; font-weight: bold; }
         </style>
-        <span style="font-size:1.7em; font-weight:600;">Hello, I am Keerthi Kumaran.</span><br>
+        <div style="text-align:center; margin-bottom: 1.2em;">
+          <span style="display:inline-block; background: rgba(255,255,255,0.25); backdrop-filter: blur(10px); padding: 0.5em 1.5em; border-radius: 12px; color: #111; font-size: 1.5em; font-weight: 700; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">Keerthi Kumaran</span>
+        </div>
+        <span style="font-size:1.2em; font-weight:600;">Hello, I am Keerthi Kumaran.</span><br>
         <strong style="color:#111;">PhD candidate in Physics, Purdue University</strong><br><br>
         <span class="glass-links">
         <a href="https://keerthikumara.github.io">Website</a> &nbsp;|&nbsp;
@@ -50,7 +53,7 @@ sections:
       title: "Interests, Education, and Experience"
       text: |
         <div style="display: flex; justify-content: center; margin-top: 2em;">
-          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; text-align:left; font-size:0.75em; max-width: 1400px; width: 95vw; display: flex; flex-direction: row; justify-content: space-between;">
+          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; text-align:left; font-size:0.85em; max-width: 1400px; width: 95vw; display: flex; flex-direction: row; justify-content: space-between;">
             <div style="width:48%; min-width:260px; box-sizing:border-box; padding: 0 18px;">
             <strong>Interests</strong><br>
             <ul style="margin-top:0.5em;">
