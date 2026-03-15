@@ -11,7 +11,7 @@ main:
     url: /research/
     weight: 2
   - name: Papers
-    url: /publication/
+    url: /publication/journal-article/
     weight: 3
   - name: Open Source Contributions
     url: /opensource/
