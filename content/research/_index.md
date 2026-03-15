@@ -28,8 +28,13 @@ Despite the distance to full fault tolerance, we have entered the age of Quantum
 **My Research**  
 My research has also naturally extended into this region.
 
+
 ### Quantum Applications
-Potential applications of quantum computing include cryptography (e.g., breaking RSA encryption), drug discovery through molecular simulation, optimization in logistics and finance, and machine learning. These applications leverage the unique properties of quantum mechanics, such as superposition and entanglement, to process information in fundamentally new ways.
+Potential applications of quantum computing include cryptography (e.g., breaking RSA), drug discovery via molecular simulation, logistics optimization, and machine learning. These leverage superposition and entanglement to process information in fundamentally new ways.
+
+While fault-tolerant algorithms like Quantum Phase Estimation (QPE) are the "gold standard" for quantum chemistry, they currently remain out of reach due to the lack of large-scale Error Correction (QEC). I will expand on these here as hardware matures. In the meantime, my research explores the immediate frontier of quantum simulation specifically:
+
+**Quantum Simulation:** Methods for simulating many-body physics, such as transmon qutrit-based AKLT systems ([AKLT Project](/opensource/qiskit-aklt/)), quantum simulation of superdiffusion breakdown ([Superdiffusion Breakdown](/publication/journal-article/paper1/)), and Kitaev model work ([Kitaev Project](/publication/journal-article/paper2/)).
 
 ### Hardware Constraints
 Despite rapid progress, achieving quantum advantage is limited by hardware constraints. Current quantum computers suffer from noise, limited qubit counts, short coherence times, and error rates that make large-scale computations challenging. Overcoming these constraints requires advances in qubit stability, error correction, and scalable architectures.
