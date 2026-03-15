@@ -22,8 +22,8 @@ In our current Noisy Intermediate-Scale Quantum (NISQ) era, physical error rates
 Despite the distance to full fault tolerance, we have entered the age of Quantum Utility. This is the threshold where quantum processors, though noisy, can perform reliable computations at a scale that challenges brute-force classical simulation. We are seeing this manifest through several key milestones:
 
 - **IBM’s Evidence for Utility:** As demonstrated in their 2023 Nature paper, 127-qubit processors used advanced error suppression to simulate complex magnetic materials (the Ising model) beyond the reach of exact classical methods [@kim2023evidence].
-- **Google’s Spin Echo & Many-Body Physics:** Google’s work has shown that we can use techniques like spin echo to preserve coherence and observe phase transitions in many-body systems [@google2023spin].
-- **Sample-Based Quantum Diagonalization:** New algorithmic approaches, such as sample-based quantum diagonalization, are proving that we can extract precise ground-state energies and physical insights from noisy hardware today [@huang2022quantum].
+- **Google’s Spin Echo & Many-Body Physics:** Google’s work has shown that we can use techniques like spin echo to preserve coherence and perform quantum computation of molecular geometry via nuclear spin echoes [@google2023spinecho].
+- **Sample-Based Quantum Diagonalization:** New algorithmic approaches, such as sample-based quantum diagonalization, are proving that we can extract precise ground-state energies and physical insights from noisy hardware today [@sampbased2024].
 
 **My Research**  
 My research has also naturally extended into this region.
@@ -43,6 +43,6 @@ In summary, while quantum computing holds great promise, realizing its full pote
 
 [@kim2023evidence] Kim, Y., et al. "Evidence for the utility of quantum computing before fault tolerance." Nature 618, 500–505 (2023). https://doi.org/10.1038/s41586-023-06096-3
 
-[@google2023spin] Google Quantum AI. "Observation of Time-Crystalline Eigenstate Order on a Quantum Processor." Nature (2021). https://doi.org/10.1038/s41586-021-03919-8
+[@google2023spinecho] Google Quantum AI. "Quantum computation of molecular geometry via nuclear spin echoes." (2023). https://quantumai.google/static/site-assets/downloads/quantum-computation-molecular-geometry-via-nuclear-spin-echoes.pdf
 
-[@huang2022quantum] Huang, H.-Y., et al. "Quantum advantage in learning from experiments." Science 376, 1182–1186 (2022). https://doi.org/10.1126/science.abn7293
+[@sampbased2024] Sureshbabu, S. S., et al. "Sample-based quantum diagonalization: Quantum ground state preparation without controlled time evolution." Science Advances 10, eadu9991 (2024). https://www.science.org/doi/10.1126/sciadv.adu9991
