@@ -57,43 +57,41 @@ sections:
       title: "Interests, Education, and Experience"
       text: |
         <div style="display: flex; justify-content: center; margin-top: 2em; overflow-x: hidden; width: 100%;">
-          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #fff; text-align:left; font-size:0.65em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
-            <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
-            <strong style="color:#fff;">Interests</strong><br>
-            <ul style="margin-top:0.5em;">
-              <li>Quantum simulations</li>
-              <li>Quantum-Classical Hybrid workflows</li>
-              <li>Quantum Error mitigation</li>
-              <li>Quantum Error suppression</li>
-            </ul>
-          </div>
-            <div style="display:none;"></div>
-            <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
-            <strong style="color:#fff;">Education</strong><br>
-            <ul style="margin-top:0.5em;">
-              <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
-                GPA: 3.9/4.0<br>
-              </li>
-              <li><b>BS in Physics</b>, Indian Institute of Science (IISc), Bengaluru, India (2018–2022)<br>
-                CGPA: 9.3/10.0<br>
-              </li>
-              <li><b>High School</b>, Maharishi Vidya Mandir, Chennai, India (2016–2018)<br>
-                Score: 486/500<br>
-              </li>
-            </ul>
-          </div>
-          <div style="display:none;"></div>
-          <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
-            <strong style="color:#fff;">Experience</strong><br>
-            <ul style="margin-top:0.5em;">
-              <li><b>Intern</b>, IBM Quantum (2024, 2025)<br>
-                Quantum algorithms, error mitigation, and simulation projects.
-              </li>
-              <li><b>Research Assistant</b>, Purdue University (2022– )<br>
-                Quantum simulations and circuit optimization.
-              </li>
-            </ul>
-          </div>
+          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #fff; text-align:left; font-size:0.65em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 12px;">
+            <div style="flex: 1 1 0; min-width:220px; max-width:33%; box-sizing:border-box; padding: 0 12px;">
+              <strong style="color:#fff;">Interests</strong><br>
+              <ul style="margin-top:0.5em;">
+                <li>Quantum simulations</li>
+                <li>Quantum-Classical Hybrid workflows</li>
+                <li>Quantum Error mitigation</li>
+                <li>Quantum Error suppression</li>
+              </ul>
+            </div>
+            <div style="flex: 1 1 0; min-width:220px; max-width:33%; box-sizing:border-box; padding: 0 12px;">
+              <strong style="color:#fff;">Education</strong><br>
+              <ul style="margin-top:0.5em;">
+                <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
+                  GPA: 3.9/4.0<br>
+                </li>
+                <li><b>BS in Physics</b>, Indian Institute of Science (IISc), Bengaluru, India (2018–2022)<br>
+                  CGPA: 9.3/10.0<br>
+                </li>
+                <li><b>High School</b>, Maharishi Vidya Mandir, Chennai, India (2016–2018)<br>
+                  Score: 486/500<br>
+                </li>
+              </ul>
+            </div>
+            <div style="flex: 1 1 0; min-width:220px; max-width:33%; box-sizing:border-box; padding: 0 12px;">
+              <strong style="color:#fff;">Experience</strong><br>
+              <ul style="margin-top:0.5em;">
+                <li><b>Intern</b>, IBM Quantum (2024, 2025)<br>
+                  Quantum algorithms, error mitigation, and simulation projects.
+                </li>
+                <li><b>Research Assistant</b>, Purdue University (2022– )<br>
+                  Quantum simulations and circuit optimization.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
 
