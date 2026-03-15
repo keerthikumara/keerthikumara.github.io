@@ -8,6 +8,7 @@ description: "Explore my published and in-progress research articles. Each artic
 Below are selected research articles. Click on any article to view a figure and a short description.
 
 
+
 {{ range .Pages }}
 ### [{{ .Title }}]({{ .RelPermalink }})
 
@@ -15,6 +16,7 @@ Below are selected research articles. Click on any article to view a figure and 
 <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:300px; margin:1em 0;" />
 {{ end }}
 
+{{ .Summary }}
 ---
 
 ## Discussion: Quantum Advantage, Applications, and Hardware Constraints
