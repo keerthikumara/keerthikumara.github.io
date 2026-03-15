@@ -1,6 +1,6 @@
 ---
-title:  "Articles"
-description: "Explore my published and in-progress research articles. Each article links to a subpage with a figure and a short description."
+title:  "Building the quantum future"
+description: "Archive of my continuosly evolving thoughts on quantum computing, including quantum advantage, applications, and hardware constraints. Posts are tagged and cross-linked for easy navigation."
 ---
 
 This is a living archive of my thoughts on the quantum computing space. My goal is to build a roadmap of the industry: defining quantum advantage, identifying its "killer apps," and being honest about the hardware bottlenecks we face today. Explore the links below to find concise breakdowns and visual guides for each topic.
