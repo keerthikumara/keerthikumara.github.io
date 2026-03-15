@@ -90,7 +90,17 @@ sections:
                 </li>
               </ul>
             </div>
-            <!-- Experience column removed as requested -->
+            <div class="mainpage-col" style="flex: 1 1 0; min-width:0; box-sizing:border-box; padding: 0 12px;">
+              <strong style="color:#fff;">Experience</strong><br>
+              <ul style="margin-top:0.5em;">
+                <li><b>Intern</b>, IBM Quantum (2024, 2025)<br>
+                  Quantum algorithms, error mitigation, and simulation projects.
+                </li>
+                <li><b>Research Assistant</b>, Purdue University (2022– )<br>
+                  Quantum simulations and circuit optimization.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
 
