@@ -26,10 +26,6 @@ sections:
         </span>
         <br><br>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 18px;">
-          <a href="#bio" style="background: #222; color: #fff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: 600;">Bio</a>
-          <a href="/research/" style="background: #222; color: #fff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: 600;">Research/Blog</a>
-          <a href="/publication/" style="background: #222; color: #fff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: 600;">Papers</a>
-          <a href="/opensource/" style="background: #222; color: #fff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: 600;">Open source contributions</a>
           <a href="/uploads/resume.pdf" style="background: #007bff; color: #fff; padding: 8px 18px; border-radius: 6px; text-decoration: none; font-weight: 600;">Download CV</a>
         </div>
         I build reliable, hardware‑aware quantum algorithms and simulations for practically relevant applications that run on today’s pre–fault‑tolerant devices while helping chart a path toward future fault‑tolerant quantum computing. I work on hardware‑aware quantum simulations, error‑mitigation methods, and utility‑scale workflows that push current systems toward classically challenging regimes. Through my work at Purdue and IBM Quantum, especially in Sample‑Based Quantum Diagonalization and utility‑scale experiments, I develop methods that scale as hardware improves. My vision is to advance meaningful Quantum Advantage by identifying promising applications and contributing to open‑source tools.
