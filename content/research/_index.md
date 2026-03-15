@@ -9,16 +9,6 @@ Below are selected research articles. Click on any article to view a figure and 
 
 
 
-{{ range .Pages }}
-### [{{ .Title }}]({{ .RelPermalink }})
-
-{{ if .Params.featured_image }}
-<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:300px; margin:1em 0;" />
-{{ end }}
-
-{{ .Summary }}
----
-{{ end }}
 
 ## Discussion: Quantum Advantage, Applications, and Hardware Constraints
 
