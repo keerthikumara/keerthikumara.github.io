@@ -57,8 +57,18 @@ sections:
       title: "Interests, Education, and Experience"
       text: |
         <div style="display: flex; justify-content: center; margin-top: 2em; overflow-x: hidden; width: 100%;">
-          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #fff; text-align:left; font-size:0.65em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 12px;">
-            <div style="flex: 1 1 0; min-width:220px; max-width:33%; box-sizing:border-box; padding: 0 12px;">
+          <style>
+            @media (min-width: 900px) {
+              .mainpage-cols { display: flex !important; flex-direction: row !important; }
+              .mainpage-col { flex: 1 1 0 !important; min-width: 0 !important; max-width: none !important; }
+            }
+            @media (max-width: 899px) {
+              .mainpage-cols { display: block !important; }
+              .mainpage-col { width: 100% !important; max-width: 100% !important; }
+            }
+          </style>
+          <div class="mainpage-cols" style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #fff; text-align:left; font-size:0.65em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 12px;">
+            <div class="mainpage-col" style="flex: 1 1 0; min-width:0; box-sizing:border-box; padding: 0 12px;">
               <strong style="color:#fff;">Interests</strong><br>
               <ul style="margin-top:0.5em;">
                 <li>Quantum simulations</li>
@@ -67,7 +77,7 @@ sections:
                 <li>Quantum Error suppression</li>
               </ul>
             </div>
-            <div style="flex: 1 1 0; min-width:220px; max-width:33%; box-sizing:border-box; padding: 0 12px;">
+            <div class="mainpage-col" style="flex: 1 1 0; min-width:0; box-sizing:border-box; padding: 0 12px;">
               <strong style="color:#fff;">Education</strong><br>
               <ul style="margin-top:0.5em;">
                 <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
@@ -81,7 +91,7 @@ sections:
                 </li>
               </ul>
             </div>
-            <div style="flex: 1 1 0; min-width:220px; max-width:33%; box-sizing:border-box; padding: 0 12px;">
+            <div class="mainpage-col" style="flex: 1 1 0; min-width:0; box-sizing:border-box; padding: 0 12px;">
               <strong style="color:#fff;">Experience</strong><br>
               <ul style="margin-top:0.5em;">
                 <li><b>Intern</b>, IBM Quantum (2024, 2025)<br>
