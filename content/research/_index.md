@@ -34,7 +34,10 @@ Potential applications of quantum computing include cryptography (e.g., breaking
 
 While fault-tolerant algorithms like Quantum Phase Estimation (QPE) are the "gold standard" for quantum chemistry, they currently remain out of reach due to the lack of large-scale Error Correction (QEC). I will expand on these here as hardware matures. In the meantime, my research explores the immediate frontier of quantum simulation specifically:
 
-**Quantum Simulation:** Methods for simulating many-body physics, such as transmon qutrit-based AKLT systems ([AKLT Project](/opensource/qiskit-aklt/)), quantum simulation of superdiffusion breakdown ([Superdiffusion Breakdown](/publication/journal-article/paper1/)), and Kitaev model work ([Kitaev Project](/publication/journal-article/paper2/)).
+**Quantum Simulation:** Methods for simulating many-body physics, such as transmon qutrit-based AKLT systems ([AKLT Project](/opensource/qiskit-aklt/)), quantum simulation of superdiffusion breakdown ([Superdiffusion Breakdown](/publication/journal-article/paper1/)), and Kitaev model work ([Robust Chiral Edge Paper](/publication/journal-article/paper3/)).
+
+Fermionic quantum simulation focuses on systems like electrons in molecules that obey the Pauli exclusion principle, differing from spin simulations by requiring the enforcement of anti-commutation relations. During my internship, I worked on Sample-Based Quantum Diagonalization (SQD) and SKQD, which utilize bitstring samples and Krylov subspaces from a QPU to extract precise energies through classical post-processing. Because these methods often conserve particle number and spin, simulating them is significantly faster than standard statevector approaches, especially when leveraging specialized packages like ffsim that optimize for fermionic gates and orbital rotations [@ffsim].
+[@ffsim] Qiskit Community. "ffsim: Fast Fermionic Simulator." https://github.com/qiskit-community/ffsim
 
 ### Hardware Constraints
 Despite rapid progress, achieving quantum advantage is limited by hardware constraints. Current quantum computers suffer from noise, limited qubit counts, short coherence times, and error rates that make large-scale computations challenging. Overcoming these constraints requires advances in qubit stability, error correction, and scalable architectures.
