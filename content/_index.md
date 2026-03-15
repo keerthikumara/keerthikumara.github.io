@@ -57,7 +57,7 @@ sections:
       title: "Interests, Education, and Experience"
       text: |
         <div style="display: flex; justify-content: center; margin-top: 2em; overflow-x: hidden; width: 100%;">
-          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #fff; text-align:left; font-size:0.85em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
+          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #fff; text-align:left; font-size:0.65em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
             <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
             <strong style="color:#fff;">Interests</strong><br>
             <ul style="margin-top:0.5em;">
