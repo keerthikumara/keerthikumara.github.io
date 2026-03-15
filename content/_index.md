@@ -66,7 +66,7 @@ sections:
               .mainpage-col { width: 100% !important; max-width: 100% !important; }
             }
           </style>
-          <div class="mainpage-cols" style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #26588777; text-align:left; font-size:0.8em; max-width: 2400px !important; width: 90%; margin: 0 auto; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 12px;">
+          <div class="mainpage-cols" style="background: rgba(50, 54, 50, 0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #0c052a77; text-align:left; font-size:0.8em; max-width: 2400px !important; width: 90%; margin: 0 auto; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 12px;">
             <div class="mainpage-col" style="flex: 1 1 0; min-width:0; box-sizing:border-box; padding: 0 12px;">
               <strong style="color:#fff;">Interests</strong><br>
               <ul style="margin-top:0.5em;">
@@ -79,13 +79,13 @@ sections:
             <div class="mainpage-col" style="flex: 1 1 0; min-width:0; box-sizing:border-box; padding: 0 12px;">
               <strong style="color:#fff;">Education</strong><br>
               <ul style="margin-top:0.5em;">
-                <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
+                <li><b style="color:#FFD700;">PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
                   GPA: 3.9/4.0<br>
                 </li>
-                <li><b>BS in Physics</b>, Indian Institute of Science (IISc), Bengaluru, India (2018–2022)<br>
+                <li><b style="color:#FFD700;">BS in Physics</b>, Indian Institute of Science (IISc), Bengaluru, India (2018–2022)<br>
                   CGPA: 9.3/10.0<br>
                 </li>
-                <li><b>High School</b>, Maharishi Vidya Mandir, Chennai, India (2016–2018)<br>
+                <li><b style="color:#FFD700;">High School</b>, Maharishi Vidya Mandir, Chennai, India (2016–2018)<br>
                   Score: 486/500<br>
                 </li>
               </ul>
