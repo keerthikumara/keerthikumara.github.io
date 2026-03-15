@@ -18,6 +18,7 @@ Below are selected research articles. Click on any article to view a figure and 
 
 {{ .Summary }}
 ---
+{{ end }}
 
 ## Discussion: Quantum Advantage, Applications, and Hardware Constraints
 
@@ -31,7 +32,3 @@ Potential applications of quantum computing include cryptography (e.g., breaking
 Despite rapid progress, achieving quantum advantage is limited by hardware constraints. Current quantum computers suffer from noise, limited qubit counts, short coherence times, and error rates that make large-scale computations challenging. Overcoming these constraints requires advances in qubit stability, error correction, and scalable architectures.
 
 In summary, while quantum computing holds great promise, realizing its full potential depends on both algorithmic breakthroughs and significant improvements in quantum hardware.
-
-{{ .Summary }}
----
-{{ end }}
