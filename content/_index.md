@@ -19,7 +19,6 @@ sections:
         <span style="font-size:1.7em; font-weight:600; color:#fff;">Hello, I am Keerthi Kumaran.</span><br>
         <strong style="color:#fff;">PhD candidate in Physics, Purdue University</strong><br><br>
         <span class="glass-links">
-        <a href="https://keerthikumara.github.io">Website</a> &nbsp;|&nbsp;
         <a href="https://github.com/keerthikumara">GitHub</a> &nbsp;|&nbsp;
         <a href="https://linkedin.com/in/keerthikumaran">LinkedIn</a> &nbsp;|&nbsp;
         <a href="https://scholar.google.com/citations?user=DK3QFcQAAAAJ&hl=en">Google Scholar</a> &nbsp;|&nbsp;
