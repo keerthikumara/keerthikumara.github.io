@@ -11,12 +11,13 @@ sections:
     content:
       username: admin
       text: |
-        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #111;">
+        <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; color: #fff;">
         <style>
-        .glass-links a { color: #111 !important; font-weight: bold; }
+        .glass-links a { color: #fff !important; font-weight: bold; }
+        strong, b { color: #fff !important; }
         </style>
-        <span style="font-size:1.7em; font-weight:600;">Hello, I am Keerthi Kumaran.</span><br>
-        <strong style="color:#111;">PhD candidate in Physics, Purdue University</strong><br><br>
+        <span style="font-size:1.7em; font-weight:600; color:#fff;">Hello, I am Keerthi Kumaran.</span><br>
+        <strong style="color:#fff;">PhD candidate in Physics, Purdue University</strong><br><br>
         <span class="glass-links">
         <a href="https://keerthikumara.github.io">Website</a> &nbsp;|&nbsp;
         <a href="https://github.com/keerthikumara">GitHub</a> &nbsp;|&nbsp;
@@ -56,9 +57,9 @@ sections:
       title: "Interests, Education, and Experience"
       text: |
         <div style="display: flex; justify-content: center; margin-top: 2em; overflow-x: hidden; width: 100%;">
-          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #111; text-align:left; font-size:0.85em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
+          <div style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #fff; text-align:left; font-size:0.85em; max-width: 100vw; width: 100%; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
             <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
-            <strong>Interests</strong><br>
+            <strong style="color:#fff;">Interests</strong><br>
             <ul style="margin-top:0.5em;">
               <li>Quantum simulations</li>
               <li>Quantum-Classical Hybrid workflows</li>
@@ -68,7 +69,7 @@ sections:
           </div>
             <div style="display:none;"></div>
             <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
-            <strong>Education</strong><br>
+            <strong style="color:#fff;">Education</strong><br>
             <ul style="margin-top:0.5em;">
               <li><b>PhD in Physics (Quantum Computing)</b>, Purdue University, West Lafayette, United States (2022– )<br>
                 GPA: 3.9/4.0<br>
@@ -83,7 +84,7 @@ sections:
           </div>
           <div style="display:none;"></div>
           <div style="flex: 1 1 300px; min-width:260px; box-sizing:border-box; padding: 0 18px;">
-            <strong>Experience</strong><br>
+            <strong style="color:#fff;">Experience</strong><br>
             <ul style="margin-top:0.5em;">
               <li><b>Intern</b>, IBM Quantum (2024, 2025)<br>
                 Quantum algorithms, error mitigation, and simulation projects.
