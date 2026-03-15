@@ -53,7 +53,7 @@ sections:
 
   - block: markdown
     content:
-      title: "Interests and Education"
+      title: "Interests, Education and Experience"
       text: |
         <div style="display: flex; justify-content: center; margin-top: 2em; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
           <style>
@@ -66,7 +66,7 @@ sections:
               .mainpage-col { width: 100% !important; max-width: 100% !important; }
             }
           </style>
-          <div class="mainpage-cols" style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #fff; text-align:left; font-size:0.8em; max-width: 2400px !important; width: 90%; margin: 0 auto; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 12px;">
+          <div class="mainpage-cols" style="background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); padding: 28px 24px; border-radius: 10px; color: #26588777; text-align:left; font-size:0.8em; max-width: 2400px !important; width: 90%; margin: 0 auto; box-sizing: border-box; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; gap: 12px;">
             <div class="mainpage-col" style="flex: 1 1 0; min-width:0; box-sizing:border-box; padding: 0 12px;">
               <strong style="color:#fff;">Interests</strong><br>
               <ul style="margin-top:0.5em;">
