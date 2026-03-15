@@ -40,7 +40,10 @@ Fermionic quantum simulation focuses on systems like electrons in molecules that
 [@ffsim] Qiskit Community. "ffsim: Fast Fermionic Simulator." https://github.com/qiskit-community/ffsim
 
 ### Hardware Constraints
-Despite rapid progress, achieving quantum advantage is limited by hardware constraints. Current quantum computers suffer from noise, limited qubit counts, short coherence times, and error rates that make large-scale computations challenging. Overcoming these constraints requires advances in qubit stability, error correction, and scalable architectures.
+
+Despite rapid progress, achieving quantum advantage is limited by hardware constraints. Current quantum computers suffer from noise, limited qubit counts, short coherence times, and error rates that make large-scale computations challenging. Overcoming these constraints requires fundamental advances in qubit stability, error correction, and scalable architectures.
+
+Though my work has mostly involved pre-fault-tolerant quantum simulation on current devices, I have started exploring Quantum Error Correction (QEC) workflows. This includes quantum memory experiments for various QEC codes and testing decoding algorithms on real-device data, specifically using datasets from Google’s 2024 QEC paper [@google2024beyondthreshold]. These explorations are powered by Riverlane’s Deltakit [@deltakit], which provides the necessary tools for circuit generation, noise simulation, and sophisticated decoding analysis.
 
 
 In summary, while quantum computing holds great promise, realizing its full potential depends on both algorithmic breakthroughs and significant improvements in quantum hardware.
@@ -48,6 +51,8 @@ In summary, while quantum computing holds great promise, realizing its full pote
 ---
 
 ## References
+[@deltakit] Riverlane. "Deltakit: Quantum error correction toolkit." https://www.riverlane.com/deltakit
+[@google2024beyondthreshold] Google Quantum AI. "Quantum error correction beyond break-even with a superconducting quantum processor." Nature 627, 928–934 (2024). https://www.nature.com/articles/s41586-024-08449-y
 
 [@kim2023evidence] Kim, Y., et al. "Evidence for the utility of quantum computing before fault tolerance." Nature 618, 500–505 (2023). https://doi.org/10.1038/s41586-023-06096-3
 
