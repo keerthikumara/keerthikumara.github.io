@@ -8,15 +8,13 @@ This is a living archive of my thoughts on the quantum computing space. My goal 
 
 
 
-## Discussion: Quantum Advantage, Applications, and Hardware Constraints
-
-### Quantum Advantage
+## Quantum Advantage
 
 **Defining the Goal: Quantum Advantage**  
 Quantum Advantage is the pragmatic and essential milestone for the field. It is achieved when a quantum computer can solve a useful, real-world problem significantly faster, more accurately, or more cheaply than the best known classical algorithm. Unlike theoretical benchmarks, Advantage is measured by tangible impact in fields like materials science, chemistry, and optimization.
 
 **The Fault-Tolerance Gap**  
-While the most ambitious promises of quantum advantage—such as breaking RSA encryption via Shor’s algorithm—capture the global imagination, these tasks require a level of hardware maturity we have yet to reach. To break modern encryption, a quantum computer would likely need to execute circuits with a depth of $10^9$ to $10^{12}$ logic gates.
+While the most ambitious promises of quantum advantage,such as breaking RSA encryption via Shor’s algorithm,capture the global imagination, these tasks require a level of hardware maturity we have yet to reach. To break modern encryption, a quantum computer would likely need to execute circuits with a depth of $$10^9$$ to $$10^{12}$$ logic gates.
 
 In our current Noisy Intermediate-Scale Quantum (NISQ) era, physical error rates (typically around $10^{-3}$) and limited qubit coherence mean that noise accumulates far faster than we can process. Achieving the "Shor-level" advantage requires Fault-Tolerant Quantum Computing (FTQC), where millions of physical qubits are used to create stable "logical" qubits through error correction. Given the massive overhead required for current error correction codes, this remains a significant, though surmountable, long-term engineering challenge.
 
