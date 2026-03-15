@@ -17,6 +17,12 @@ featured: false
 links:
   - type: pdf
     url: "https://arxiv.org/abs/2412.19786"
+tags:
+  - Qutrits
+  - AKLT Model
+  - Spin-1 Systems
+  - Superconducting Qubits
+  - Quantum Simulation
 ---
 <img src="/uploads/aklt_overview.png" alt="AKLT qutrit simulation overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 

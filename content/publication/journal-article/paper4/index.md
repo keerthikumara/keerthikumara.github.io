@@ -13,6 +13,12 @@ featured: false
 links:
   - type: pdf
     url: "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013010"
+tags:
+  - Quantum Machine Learning
+  - Random Circuits
+  - Dimensionality Reduction
+  - Quantum Algorithms
+  - Data Analysis
 ---
 <img src="/uploads/random_projection_overview.png" alt="Random projection quantum circuit overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 

@@ -18,6 +18,13 @@ featured: false
 links:
   - type: pdf
     url: "https://arxiv.org/abs/2503.14371"
+tags:
+  - Quantum Simulation
+  - Heisenberg Model
+  - Spin Chains
+  - Quantum Transport
+  - Superdiffusion
+  - Error Mitigation
 ---
 <img src="/uploads/superdiffusion_breakdown.png" alt="Superdiffusion breakdown simulation overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 

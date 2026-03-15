@@ -15,6 +15,12 @@ featured: false
 links:
   - type: pdf
     url: "https://pubs.acs.org/doi/10.1021/acs.jpca.3c05172"
+tags:
+  - Resonating Valence Bond (RVB)
+  - Quantum Spin Liquids
+  - Quantum Simulation
+  - Strongly Correlated Systems
+  - Quantum Circuits
 ---
 <img src="/uploads/physics_inspired_overview.png" alt="Valence bond quantum simulation overview" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 

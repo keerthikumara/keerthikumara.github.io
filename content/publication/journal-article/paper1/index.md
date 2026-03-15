@@ -18,6 +18,13 @@ featured: true
 links:
   - type: PDF
     url: "https://arxiv.org/abs/2507.08939"
+tags:
+  - Quantum Simulation
+  - Topological Phases
+  - Chiral Edge States
+  - Trapped Ions
+  - Kitaev Model
+  - Quantum Hardware
 ---
 <img src="/uploads/kitaev-overview.png" alt="Model and quantum circuit overview for Kitaev honeycomb paper" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;" />
 
