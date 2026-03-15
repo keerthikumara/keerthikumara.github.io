@@ -5,9 +5,6 @@ date: 2025-11-30
 
 ## Qiskit Calibration Toolkit & AKLT Simulations
 
-**Organization:** IBM & Qiskit Community  
-**Duration:** January 2023 - November 2024  
-**Location:** Remote
 
 This repository hosts the **Qutrit Calibration** package, an extension for [Qiskit Experiments](https://github.com/Qiskit/qiskit-experiments) designed to facilitate the calibration of single-qutrit gates. By expanding the standard qubit calibration routines to the third energy level ($|2\rangle$ state), this toolkit enables researchers to explore qutrit physics and higher-dimensional quantum simulations.
 
