@@ -38,9 +38,15 @@ sections:
       background:
         color: black
         image:
+          # Add a dark overlay using a linear-gradient for more darkness and less opacity of the image
+          style: |
+            background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('/media/stacked-peaks.svg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
           filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
