@@ -55,7 +55,7 @@ sections:
     content:
       title: "Interests, Education, and Experience"
       text: |
-        <div style="display: flex; justify-content: center; margin-top: 2em; overflow-x: hidden; width: 100%;">
+        <div style="display: flex; justify-content: center; margin-top: 2em; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
           <style>
             @media (min-width: 900px) {
               .mainpage-cols { display: flex !important; flex-direction: row !important; }
