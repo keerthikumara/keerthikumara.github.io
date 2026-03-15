@@ -53,4 +53,4 @@ In summary, while quantum computing holds great promise, realizing its full pote
 
 [@google2023spinecho] Google Quantum AI. "Quantum computation of molecular geometry via nuclear spin echoes." (2023). https://quantumai.google/static/site-assets/downloads/quantum-computation-molecular-geometry-via-nuclear-spin-echoes.pdf
 
-[@sampbased2024] Sureshbabu, S. S., et al. "Sample-based quantum diagonalization: Quantum ground state preparation without controlled time evolution." Science Advances 10, eadu9991 (2024). https://www.science.org/doi/10.1126/sciadv.adu9991
+[@sampbased2024] Robledo-Moreno, Javier, et al. "Sample-based quantum diagonalization: Quantum ground state preparation without controlled time evolution." Science Advances 10, eadu9991 (2024). https://www.science.org/doi/10.1126/sciadv.adu9991
