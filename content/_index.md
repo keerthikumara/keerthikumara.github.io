@@ -46,7 +46,7 @@ sections:
             background-repeat: no-repeat;
           filename: stacked-peaks.svg
           filters:
-            brightness: 0.7
+            brightness: 0.4
           size: cover
           position: center
           parallax: false
