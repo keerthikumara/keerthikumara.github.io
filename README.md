@@ -10,7 +10,7 @@
 ---
 
 ## 🗺️ Quick Navigation
-**[About Me](#about)** | **[Research Vision](#vision)** | **[Applications (Simulations & QML)](#applications)** | **[Foundations (QEC)](#qec)** | **[Achievements](#achievements)**
+**[About Me](#about)** | **[Research Vision](#vision)** | **[Applications (Simulations & QML)](#applications)** | **[Foundations (QEC)](#qec)** 
 
 ---
 
@@ -41,17 +41,17 @@ My research is driven by the transition from NISQ experiments to **Quantum Utili
 *Mapping complex Hamiltonians to quantum hardware to study topological phases and transport.*
 
 - **Spin Systems & Qutrits:** Simulation of **AKLT Systems** using calibrated superconducting transmons.  
-  [📄 arXiv:2412.19786](https://arxiv.org) | [💻 View Code](https://github.com/aklt-qutrit)
+  [📄 arXiv:2412.19786](https://arxiv.org/abs/2412.19786) | [💻 View Code](https://github.com/keerthikumara/Spin-1)
 - **Dynamics:** **Superdiffusion Breakdown** in 2D Heisenberg Chains and **Chiral Edge Dynamics** on Trapped Ions.  
-  [📄 arXiv:2503.14371](https://arxiv.org) | [📄 arXiv:2507.08939](https://arxiv.org)
+  [📄 arXiv:2503.14371](https://arxiv.org/abs/2503.14371) | [📄 arXiv:2507.08939](https://arxiv.org/abs/2507.08939)
 - **Chemistry:** Simulation of **Resonating Valence Bond (RVB)** states.  
-  [📄 J. Phys. Chem. A (2023)](https://pubs.acs.org)
+  [📄 J. Phys. Chem. A (2023)](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.3c05172)
 
 ### 🤖 Quantum Machine Learning (QML)
 *Exploring how quantum circuits can compress and process high-dimensional data.*
 
 - **Random Projection & Dimensionality Reduction:** Benchmarking quantum vs. classical PCA using random circuits.  
-  [📄 Phys. Rev. Research (2024)](https://journals.aps.org)
+  [📄 Phys. Rev. Research (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013010)
 
 [↑ Back to Top](#-hi-im-keerthi-kumaran)
 
@@ -69,10 +69,10 @@ Quantum advantage requires more than just more qubits; it requires **Error Corre
 
 ---
 
-<h2 id="achievements">🏆 Achievements</h2>
+<!-- <h2 id="achievements">🏆 Achievements</h2>
 - 🎖️ **Advanced Badge**, IBM Fall Quantum Challenge
 - 🇩🇪 **DAAD WISE Scholar**, Germany
 - 🧑‍🏫 **Reviewer**, *Journal of Physics A*
-- 🧑‍💻 **Top 15%**, QHack 2023 (Xanadu)
+- 🧑‍💻 **Top 15%**, QHack 2023 (Xanadu) -->
 
 [↑ Back to Top](#-hi-im-keerthi-kumaran)
