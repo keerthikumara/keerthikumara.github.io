@@ -29,7 +29,7 @@ Despite the distance to full fault tolerance, we have entered the age of Quantum
 My research has also naturally extended into this region. Check out this work where we perform and benchmark quantum simulation of inelastic scattering at a scal that is beyond the reach of exact diagonalization[@neutron-scattering]. Also, here is a short video explaining intuitively what we did.  
 
 <div align="center">
-<img src="/uploads/NS_linkedin_post_1.gif" alt="Quantum Simulation of Inelastic Scattering Animation" width="560" height="315" style="display: block; margin: 0 auto;" />
+<img src="/uploads/NS_linkedin_post_1.gif" alt="Quantum Simulation of Inelastic Scattering Animation" width="560" height="315" style="display: block; margin: 0 auto; background-color: #fff;" />
 </div>
 
 
