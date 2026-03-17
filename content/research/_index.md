@@ -26,7 +26,14 @@ Despite the distance to full fault tolerance, we have entered the age of Quantum
 - **Sample-Based Quantum Diagonalization:** New algorithmic approaches, such as sample-based quantum diagonalization, are proving that we can extract precise ground-state energies and physical insights from noisy hardware today [@sampbased2024].
 
 **My Research**  
-My research has also naturally extended into this region.
+My research has also naturally extended into this region. Check out this work where we perform and benchmark quantum simulation of inelastic scattering at a scal that is beyond the reach of exact diagonalization[@neutron-scattering]. Also, here is a short video explaining intuitively what we did.  
+
+<div align="center">
+<video width="560" height="315" controls>
+	<source src="/uploads/NS_linkedin_post_1" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</div>
 
 
 ### Quantum Applications
@@ -34,7 +41,7 @@ Potential applications of quantum computing include cryptography (e.g., breaking
 
 While fault-tolerant algorithms like Quantum Phase Estimation (QPE) are the "gold standard" for quantum chemistry, they currently remain out of reach due to the lack of large-scale Error Correction (QEC). I will expand on these here as hardware matures. In the meantime, my research explores the immediate frontier of quantum simulation specifically:
 
-**Quantum Simulation:** Methods for simulating many-body physics, such as transmon qutrit-based AKLT systems ([AKLT Project](/opensource/qiskit-aklt/)), quantum simulation of superdiffusion breakdown ([Superdiffusion Breakdown](/publication/journal-article/paper1/)), and Kitaev model work ([Robust Chiral Edge Paper](/publication/journal-article/paper3/)).
+**Quantum Simulation:** Methods for simulating many-body physics, such as transmon qutrit-based AKLT systems ([AKLT Project](/opensource/qiskit-aklt/)), quantum simulation of superdiffusion breakdown ([Superdiffusion Breakdown](/publication/journal-article/paper2/)), and Kitaev model work ([Robust Chiral Edge Paper](/publication/journal-article/paper1/)).
 
 Fermionic quantum simulation focuses on systems like electrons in molecules that obey the Pauli exclusion principle, differing from spin simulations by requiring the enforcement of anti-commutation relations. During my internship, I worked on Sample-Based Quantum Diagonalization (SQD) and SKQD, which utilize bitstring samples and Krylov subspaces from a QPU to extract precise energies through classical post-processing. Because these methods often conserve particle number and spin, simulating them is significantly faster than standard statevector approaches, especially when leveraging specialized packages like ffsim that optimize for fermionic gates and orbital rotations [@ffsim].
 [@ffsim] Qiskit Community. "ffsim: Fast Fermionic Simulator." https://github.com/qiskit-community/ffsim
@@ -59,3 +66,5 @@ In summary, while quantum computing holds great promise, realizing its full pote
 [@google2023spinecho] Google Quantum AI. "Quantum computation of molecular geometry via nuclear spin echoes." (2023). https://quantumai.google/static/site-assets/downloads/quantum-computation-molecular-geometry-via-nuclear-spin-echoes.pdf
 
 [@sampbased2024] Robledo-Moreno, Javier, et al. "Sample-based quantum diagonalization: Quantum ground state preparation without controlled time evolution." Science Advances 10, eadu9991 (2024). https://www.science.org/doi/10.1126/sciadv.adu9991
+
+[@neutron-scattering] Yi-Ting, Keerthi, et al. "Benchmarking quantum simulation of inelastic neutron scattering." (2026). https://arxiv.org/abs/2603.15608
