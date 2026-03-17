@@ -1,0 +1,3 @@
+{{ if or (eq .Section "research") (eq .Section "blog") }}
+  {{ partial "hooks/head-end/custom-research-margin.html" . }}
+{{ end }}

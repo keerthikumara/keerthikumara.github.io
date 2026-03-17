@@ -13,3 +13,6 @@ summary: |
 <div align="center">
 <img src="/uploads/NS_linkedin_post_1.gif" alt="Quantum Simulation of Inelastic Scattering Animation" width="560" height="315" style="display: block; margin: 0 auto; background-color: #fff;" />
 </div>
+
+**Summary**
+We perform and benchmark quantum simulation of inelastic scattering at a scale that is beyond the reach of exact diagonalization. See the video below for an intuitive explanation of our work.
