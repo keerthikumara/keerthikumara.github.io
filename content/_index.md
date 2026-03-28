@@ -85,9 +85,6 @@ sections:
                 <li><b style="color:#FFD700;">BS in Physics</b>, Indian Institute of Science (IISc), Bengaluru, India (2018–2022)<br>
                   CGPA: 9.3/10.0<br>
                 </li>
-                <li><b style="color:#FFD700;">High School</b>, Maharishi Vidya Mandir, Chennai, India (2016–2018)<br>
-                  Score: 486/500<br>
-                </li>
               </ul>
             </div>
             <div class="mainpage-col" style="flex: 1 1 0; min-width:0; box-sizing:border-box; padding: 0 12px;">
